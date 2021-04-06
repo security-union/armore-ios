@@ -1,0 +1,10 @@
+{
+   "Simulator Target Bundle": "com.armore.SecurityUnion",
+   "command": "RefreshTelemetry",
+   "correlationId": "12312",
+   "username": "dario",
+   "aps": {
+       "content-available": 1
+   }
+}
+

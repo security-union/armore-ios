@@ -1,0 +1,17 @@
+1.7 notes
+Added new invitation system (Included a video)
+
+1.6 notes
+
+Hi friends, we are just updating for a localization bug and updating the app store listing.
+
+Our system does not require a password, instead, an email must be associated with the account, then on login, a one time pin is sent.
+
+We created a gmail for you guys, feel free to change it or to use a different email account. 
+
+** Gmail emails might take up to 5 minutes to be delivered.
+
+appletestarmore@gmail.com
+Gvz5Q7TxCLxSNY5
+
+

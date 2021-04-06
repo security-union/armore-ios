@@ -1,0 +1,21 @@
+Armore is a FREE location sharing app available for iOS and other mobile platforms. 
+
+Armore uses your phone's internet connection & GPS tracking to provide your real-time location to your friends and family. We use the same technology as Whatsapp to secure end-to-end encrypted location data. Meaning only the people you invite to follow you can access your location data. 
+
+We are aiming to build a safer world with Armore. We believe that technology should work for people instead of profiting off of people; therefore, we do not plan to sell any user data from Armore. 
+
+WHY USE ARMORE:
+
+• REAL-TIME: Armore provides a real-time connection to your friends and family
+
+• RELIABLE: We are committed to having the most reliable location tracking platform
+
+• NO FEES: Armore is free to use
+
+• CROSS-PLATFORM: Armore works on both iOS and other mobile platforms
+
+• SIMPLE: Armore has a simple user interface that anyone can handle
+
+• WE DON'T SELL YOUR DATA: Simple as that. We built it into our Privacy Policy
+
+• ENCRYPTED & SECURE: Not only do we not sell your data. We also encrypt your data using an RSA key pair stored on your device and nowhere else
