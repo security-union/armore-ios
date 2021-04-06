@@ -319,7 +319,6 @@
 		A31ED3E32E3ED2877BFEC8AF /* Pods_ArmoreTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87BAD04A093B4F77C82195C3 /* Pods_ArmoreTests.framework */; };
 		C84CF2E323F193F000D4D434 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84CF2E223F193F000D4D434 /* Response.swift */; };
 		C84CF2E523F1993800D4D434 /* Invitation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84CF2E423F1993800D4D434 /* Invitation.swift */; };
-		C84DF13D2434CDD50097285F /* historicalLocation.json in Resources */ = {isa = PBXBuildFile; fileRef = C84DF13C2434CDD50097285F /* historicalLocation.json */; };
 		C852433E23A0C7B5002CE9BC /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = C852433D23A0C7B5002CE9BC /* Image.swift */; };
 		C85380682372F2EA002DBBE7 /* LocationsPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85380672372F2EA002DBBE7 /* LocationsPresenter.swift */; };
 		C853806A2372F2F6002DBBE7 /* LocationsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85380692372F2F6002DBBE7 /* LocationsController.swift */; };
@@ -510,7 +509,6 @@
 		B4B8D5274E4EAD56DCE576FA /* Pods-ArmoreTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ArmoreTests.release.xcconfig"; path = "Target Support Files/Pods-ArmoreTests/Pods-ArmoreTests.release.xcconfig"; sourceTree = "<group>"; };
 		C84CF2E223F193F000D4D434 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		C84CF2E423F1993800D4D434 /* Invitation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Invitation.swift; sourceTree = "<group>"; };
-		C84DF13C2434CDD50097285F /* historicalLocation.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = historicalLocation.json; sourceTree = "<group>"; };
 		C852433D23A0C7B5002CE9BC /* Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
 		C85380672372F2EA002DBBE7 /* LocationsPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsPresenter.swift; sourceTree = "<group>"; };
 		C85380692372F2F6002DBBE7 /* LocationsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsController.swift; sourceTree = "<group>"; };
@@ -828,7 +826,6 @@
 				C8A3C9E8236FE7AC00FDFAC9 /* LaunchScreen.storyboard */,
 				06FB899724043F0E00AC31A5 /* Info.plist */,
 				08C3D3D1248003440094136C /* GoogleService-Info.plist */,
-				C84DF13C2434CDD50097285F /* historicalLocation.json */,
 			);
 			path = RescueLink;
 			sourceTree = "<group>";
@@ -1152,7 +1149,6 @@
 				C8A3C9EA236FE7AC00FDFAC9 /* LaunchScreen.storyboard in Resources */,
 				06FE6C1C240B982C00C8D98E /* PlaceholderCell.xib in Resources */,
 				060AFD0A2404986B00A9F615 /* GPSIsDisabledViewController.xib in Resources */,
-				C84DF13D2434CDD50097285F /* historicalLocation.json in Resources */,
 				050AC42125B115C200E3A9D8 /* Audiowide-Regular.ttf in Resources */,
 				050AC43625B115C200E3A9D8 /* OpenSans-SemiBoldItalic.ttf in Resources */,
 				067F4F6024DA18260023490B /* PublicKeyCreationDialog.xib in Resources */,
