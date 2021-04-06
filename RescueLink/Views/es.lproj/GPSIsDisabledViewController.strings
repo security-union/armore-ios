@@ -1,0 +1,10 @@
+
+/* Class = "UIButton"; normalTitle = "Compartir posición siempre"; ObjectID = "4WM-TK-zrT"; */
+"o1b-Wj-CtK.normalTitle" = "IR A AJUSTES";
+
+/* Class = "UILabel"; text = "Necesitamos permiso para acceder a tu posición siempre para poder compartirla cuando la aplicación esta en el background."; ObjectID = "oTL-CT-4zv"; */
+"8VM-wK-eZZ.text" = "Armore necesita que cambies los siguientes ajustes para compartir tu ubicación con amig@s y familiares: \n\n1. Permitir el acceso a su ubicación siempre y activar ubicación precisa. \n\n2. Actualizar en 2do. plano";
+
+"4WM-TK-zrT.normalTitle" = "AYUDA POR EMAIL";
+
+"aCL-OD-Hjm.normalTitle" = "AYUDA POR DISCORD";

@@ -1,0 +1,23 @@
+{
+  "images": [
+    {
+      "filename": "cancel.png",
+      "idiom": "universal",
+      "scale": "1x"
+    },
+    {
+      "filename": "cancelX2.png",
+      "idiom": "universal",
+      "scale": "2x"
+    },
+    {
+      "filename": "cancelX3.png",
+      "idiom": "universal",
+      "scale": "3x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

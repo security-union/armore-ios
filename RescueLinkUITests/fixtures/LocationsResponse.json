@@ -1,0 +1,362 @@
+{
+  "success": true,
+  "result": {
+    "romina": {
+      "name": "romina",
+      "userDetails": {
+        "email": "Romina.23@me.com",
+        "firstName": "Romina",
+        "lastName": "sdfgsdfgsd",
+        "picture": "3cd15b65-e99d-46f4-a7d9-52c19cd6ceff",
+        "username": "romina"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 7.71767476185562,
+            "lon": 98.770803889546
+          },
+          "timestamp": "2020-01-10T07:17:25.464Z",
+          "deviceId": "26A42A87-8865-4AB1-801F-6D32736CE17C"
+        }
+      ]
+    },
+    "dario": {
+      "name": "dario",
+      "userDetails": {
+        "email": "dario@gmail.com",
+        "firstName": "Dario",
+        "lastName": "Lencina-Talarico",
+        "picture": "3aa1b809-1b6c-4aa9-a7d9-796f7284e22e",
+        "username": "dario"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 37.4219983,
+            "lon": -122.084
+          },
+          "timestamp": "2020-01-13T03:51:33.877Z",
+          "deviceId": "4af347df68c61a6d"
+        },
+        {
+          "location": {
+            "lat": 42.3864893,
+            "lon": -82.9412879
+          },
+          "timestamp": "2020-02-01T04:37:42.014Z",
+          "deviceId": "b5dad9420ac16bd2"
+        },
+        {
+          "location": {
+            "lat": 42.3864248,
+            "lon": -82.9413292
+          },
+          "timestamp": "2020-02-01T04:43:23.153Z",
+          "deviceId": "3522fc6a1c98b952"
+        },
+        {
+          "location": {
+            "lat": 37.33233141,
+            "lon": -122.0312186
+          },
+          "timestamp": "2020-02-01T08:06:25.104Z",
+          "deviceId": "14D078BD-C98B-4235-BBA3-E45CEFF3B051"
+        },
+        {
+          "location": {
+            "lat": 3,
+            "lon": 2
+          },
+          "timestamp": "2020-02-01T08:45:49.121Z",
+          "deviceId": "4ba253fb9ec9d686"
+        },
+        {
+          "location": {
+            "lat": 42.375572,
+            "lon": -83.0259
+          },
+          "timestamp": "2019-11-04T03:20:17.756Z",
+          "deviceId": "dario_test_device"
+        },
+        {
+          "location": {
+            "lat": 42.27115,
+            "lon": -83.735802
+          },
+          "timestamp": "2019-11-04T04:18:41.602Z",
+          "deviceId": "dario_garage"
+        },
+        {
+          "location": {
+            "lat": 37.4219983333333,
+            "lon": -122.084
+          },
+          "timestamp": "2019-11-13T03:51:41.502Z",
+          "deviceId": "a76f0db9474f815c"
+        },
+        {
+          "location": {
+            "lat": 20.71504,
+            "lon": -101.34963
+          },
+          "timestamp": "2019-11-17T01:44:37.088Z",
+          "deviceId": "418f5dbb91962caf"
+        },
+        {
+          "location": {
+            "lat": 42.28801,
+            "lon": -83.74435
+          },
+          "timestamp": "2019-11-24T01:47:45.741Z",
+          "deviceId": "65a2dbaca5512a41"
+        },
+        {
+          "location": {
+            "lat": 37.4219983333333,
+            "lon": -122.084
+          },
+          "timestamp": "2019-12-01T06:21:03.431Z",
+          "deviceId": "80cff3a30c2881dd"
+        },
+        {
+          "location": {
+            "lat": 37.4219983333333,
+            "lon": -122.084
+          },
+          "timestamp": "2019-12-01T14:23:12.106Z",
+          "deviceId": "e7074b3fdebdec5f"
+        },
+        {
+          "location": {
+            "lat": 37.4219983333333,
+            "lon": -122.084
+          },
+          "timestamp": "2019-12-01T15:50:46.157Z",
+          "deviceId": "6582735a5d07a9d6"
+        },
+        {
+          "location": {
+            "lat": 42.3254917,
+            "lon": -83.65297
+          },
+          "timestamp": "2019-12-07T09:02:22.911Z",
+          "deviceId": "682f5c351494c33a"
+        },
+        {
+          "location": {
+            "lat": 20.5311866,
+            "lon": -100.8143867
+          },
+          "timestamp": "2019-12-10T03:22:10.272Z",
+          "deviceId": "99a7dcc862068a5c"
+        },
+        {
+          "location": {
+            "lat": 37.3376759688808,
+            "lon": -122.029595255831
+          },
+          "timestamp": "2019-12-10T03:39:11.643Z",
+          "deviceId": "asimovlivesasimovlives"
+        },
+        {
+          "location": {
+            "lat": 40.6988517,
+            "lon": -80.117925
+          },
+          "timestamp": "2019-12-10T04:25:52.210Z",
+          "deviceId": "ca879552fedeb072"
+        },
+        {
+          "location": {
+            "lat": 37.4219983,
+            "lon": -122.084
+          },
+          "timestamp": "2019-12-15T23:19:35.951Z",
+          "deviceId": "7dcd4002be47856b"
+        },
+        {
+          "location": {
+            "lat": 20.72728,
+            "lon": -101.34395
+          },
+          "timestamp": "2019-12-20T01:22:50.810Z",
+          "deviceId": "51938eed7aa19a6f"
+        },
+        {
+          "location": {
+            "lat": 37.785834,
+            "lon": -122.406417
+          },
+          "timestamp": "2020-01-05T04:46:40.405Z",
+          "deviceId": "ED076AEA-847C-4431-A35B-472D6201A9D6"
+        },
+        {
+          "location": {
+            "lat": 42.3862259569233,
+            "lon": -82.9414506829207
+          },
+          "timestamp": "2020-01-05T05:46:53.352Z",
+          "deviceId": "A1893A3D-4F1E-45E4-97ED-DF18C0D538E1"
+        },
+        {
+          "location": {
+            "lat": 37.7710683,
+            "lon": -122.4130383
+          },
+          "timestamp": "2020-01-07T03:40:50.757Z",
+          "deviceId": "1a4cd0f8118086a8"
+        }
+      ]
+    },
+    "bertha": {
+      "name": "bertha",
+      "userDetails": {
+        "email": "berth@gmail.com",
+        "firstName": "Bertha",
+        "lastName": "Rsdfsdf",
+        "picture": "berthapic.jpg",
+        "username": "bertha"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 21.1478758,
+            "lon": -101.6924628
+          },
+          "timestamp": "2020-01-23T04:51:33.483Z",
+          "deviceId": "d8de0c910afb87d0"
+        }
+      ]
+    },
+    "dariocloud": {
+      "name": "dariocloud",
+      "userDetails": {
+        "email": "edsfgsdfgsdfgh@me.com",
+        "firstName": "DarioCloud",
+        "lastName": "Cloud",
+        "picture": "bf41a87b-a2c6-4b0b-ac01-5957a7e0e208",
+        "username": "dariocloud"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 42.3865032,
+            "lon": -82.9412907
+          },
+          "timestamp": "2020-01-25T05:49:00.595Z",
+          "deviceId": "5ea9ed35e707003c"
+        },
+        {
+          "location": {
+            "lat": 9.837738,
+            "lon": -83.449242
+          },
+          "timestamp": "2020-01-31T06:49:31.505Z",
+          "deviceId": "BF023F00-3CF0-4120-A998-3F67C3FABAF5"
+        }
+      ]
+    },
+    "coche": {
+      "name": "coche",
+      "userDetails": {
+        "email": "luis@gmail.com",
+        "firstName": "Coche",
+        "lastName": "Rsdfsdf",
+        "picture": "joseluis.jpg",
+        "username": "coche"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 21.1502406432402,
+            "lon": -101.647426045043
+          },
+          "timestamp": "2020-01-31T15:12:04.052Z",
+          "deviceId": "9AE733C5-42DD-4652-8E27-4068E96C6301"
+        }
+      ]
+    },
+    "rubendario": {
+      "name": "rubendario",
+      "userDetails": {
+        "email": "asdfjkhsan@sdafsdf.cxom",
+        "firstName": "Rubén",
+        "lastName": "dfgsdfhfdgj",
+        "picture": "c6f9fa71-c0c2-4f8f-aa8e-c58ddfe9a290",
+        "username": "rubendario"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 20.7038816898076,
+            "lon": -101.368922104231
+          },
+          "timestamp": "2020-02-01T02:16:17.175Z",
+          "deviceId": "2AEF3800-21F3-4843-9EEC-F4D6BE4377A4"
+        }
+      ]
+    },
+    "zurcaleriam": {
+      "name": "zurcaleriam",
+      "userDetails": {
+        "email": "3453455345@yahoo.com",
+        "firstName": "Mariela",
+        "lastName": "Cruz",
+        "picture": "maye.jpg",
+        "username": "zurcaleriam"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 42.3863109970697,
+            "lon": -82.9409492416106
+          },
+          "timestamp": "2020-02-01T08:45:24.722Z",
+          "deviceId": "BBE12922-8154-49BC-B3E1-706B76370C61"
+        }
+      ]
+    },
+    "griffobeid": {
+      "name": "griffobeid",
+      "userDetails": {
+        "email": "griff@gmail.com",
+        "firstName": "Griffin",
+        "lastName": "Obeid",
+        "picture": "5e5e8921-75bb-4b8c-b30d-fd6ba8472726",
+        "username": "griffobeid"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 42.2933656549672,
+            "lon": -83.6851360711632
+          },
+          "timestamp": "2020-02-01T08:45:27.749Z",
+          "deviceId": "637FC241-730F-496C-8AC1-929530787396"
+        }
+      ]
+    },
+    "lalital": {
+      "name": "lalital",
+      "userDetails": {
+        "email": "aerfasdfasdf@asdfasd.com",
+        "firstName": "Laura",
+        "lastName": "Talarico",
+        "picture": "131e2131-9c9d-4ecd-a239-733bafbac2e5",
+        "username": "lalital"
+      },
+      "devices": [
+        {
+          "location": {
+            "lat": 20.7038263541586,
+            "lon": -101.369030060817
+          },
+          "timestamp": "2020-02-01T08:45:35.782Z",
+          "deviceId": "133F5648-3BCF-4F35-89BB-7E251CC6CB3A"
+        }
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,395 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "00I-WS-4G8"; */
+"00I-WS-4G8.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Complete name"; ObjectID = "1OS-hv-Wn1"; */
+"1OS-hv-Wn1.text" = "Nombre completo";
+
+/* Class = "UILabel"; text = "Device name"; ObjectID = "1ex-n7-nHe"; */
+"1ex-n7-nHe.text" = "Nombre del teléfono";
+
+/* Class = "UITabBarItem"; title = "Devices"; ObjectID = "1vj-mq-mhg"; */
+"1vj-mq-mhg.title" = "Teléfonos";
+
+/* Class = "UITextField"; placeholder = "username or email"; ObjectID = "21v-wH-Wo8"; */
+"21v-wH-Wo8.placeholder" = "usuario o correo electrónico";
+
+/* Class = "UILabel"; text = "adjfi3jjfadsf"; ObjectID = "25f-P2-e89"; */
+"25f-P2-e89.text" = "adjfi3jjfadsf";
+
+/* Class = "UILabel"; text = "Device Id to be shared:"; ObjectID = "2p9-Cc-QCq"; */
+"2p9-Cc-QCq.text" = "Id del dispositivo";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "34m-0E-raN"; */
+"34m-0E-raN.title" = "Perfil";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "484-XY-Xba"; */
+"484-XY-Xba.normalTitle" = "REMOVER CUENTA";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "4E7-dZ-PLj"; */
+"4E7-dZ-PLj.text" = "correo electrónico";
+
+/* Class = "UILabel"; text = "Os version (13.1.1)"; ObjectID = "5Jq-m7-LYM"; */
+"5Jq-m7-LYM.text" = "Os version (13.1.1)";
+
+/* Class = "UILabel"; text = "Device model"; ObjectID = "6IL-3B-E72"; */
+"6IL-3B-E72.text" = "Modelo";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "6WT-xr-thW"; */
+"6WT-xr-thW.placeholder" = "Correo";
+
+/* Class = "UILabel"; text = "Please enter your username or email to start the password reset process."; ObjectID = "71q-IM-shS"; */
+"71q-IM-shS.text" = "Ingrese su usuario o correo electrónico para empezar el proceso de reseteo de la contraseña";
+
+/* Class = "UIButton"; normalTitle = "Following"; ObjectID = "7qm-uS-eZh"; */
+"7qm-uS-eZh.normalTitle" = "CONTACTOS";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "7sa-Vo-A6A"; */
+"7sa-Vo-A6A.placeholder" = "contraseña";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "8Fi-7E-as9"; */
+"8Fi-7E-as9.text" = "correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "Add profile photo"; ObjectID = "9O0-As-gu3"; */
+"9O0-As-gu3.normalTitle" = "Añadir foto";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9Y6-im-DZA"; */
+"9Y6-im-DZA.text" = "0";
+
+/* Class = "UILabel"; text = "(No people with access to this device)"; ObjectID = "AfV-eO-kbn"; */
+"AfV-eO-kbn.text" = "(Nadie te sigue)";
+
+/* Class = "UIButton"; normalTitle = "Invite someone to track this device"; ObjectID = "B1L-hB-nW5"; */
+"B1L-hB-nW5.normalTitle" = "Invita a alguien a seguirte";
+
+/* Class = "UILabel"; text = "Device Type"; ObjectID = "CJE-6M-d1U"; */
+"CJE-6M-d1U.text" = "Tipo de móvil";
+
+/* Class = "UILabel"; text = "No received invitations"; ObjectID = "DVj-lL-R5l"; */
+"DVj-lL-R5l.text" = "No has recibido nuevas invitaciones";
+
+/* Class = "UILabel"; text = "My Device Model:"; ObjectID = "DVo-gQ-xy9"; */
+"DVo-gQ-xy9.text" = "Modelo:";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "EGT-hN-OC6"; */
+"EGT-hN-OC6.text" = "Confirma la contraseña";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "EPS-xF-C4z"; */
+"EPS-xF-C4z.placeholder" = "Correo";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "Egu-GA-yJx"; */
+"Egu-GA-yJx.text" = "Siguiendo";
+
+/* Class = "UILabel"; text = "Device Name"; ObjectID = "Ene-yX-Aac"; */
+"Ene-yX-Aac.text" = "Nómbre del móvil";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "F05-eu-3YJ"; */
+"F05-eu-3YJ.text" = "Seguidores";
+
+/* Class = "UISegmentedControl"; IVl-iP-0IC.segmentTitles[0] = "Received"; ObjectID = "IVl-iP-0IC"; */
+"IVl-iP-0IC.segmentTitles[0]" = "Recibidas";
+
+/* Class = "UISegmentedControl"; IVl-iP-0IC.segmentTitles[1] = "Sent"; ObjectID = "IVl-iP-0IC"; */
+"IVl-iP-0IC.segmentTitles[1]" = "Enviadas";
+
+/* Class = "UILabel"; text = "Creator Username:"; ObjectID = "Iwd-gV-hrq"; */
+"Iwd-gV-hrq.text" = "Mandada por:";
+
+/* Class = "UILabel"; text = "My Device OS:"; ObjectID = "KuA-4R-SQH"; */
+"KuA-4R-SQH.text" = "Sistema Operativo";
+
+/* Class = "UITextField"; placeholder = "Confirm email"; ObjectID = "L2x-hs-HiW"; */
+"L2x-hs-HiW.placeholder" = "Confirma el correo";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "LZM-2j-WR5"; */
+"LZM-2j-WR5.text" = "Password";
+
+/* Class = "UILabel"; text = "Person Name"; ObjectID = "LiN-q8-1Lw"; */
+"LiN-q8-1Lw.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "M5y-Z5-PiS"; */
+"M5y-Z5-PiS.text" = "Correo:";
+
+/* Class = "UILabel"; text = "Device:"; ObjectID = "MI6-Rf-oFB"; */
+"MI6-Rf-oFB.text" = "Móvil:";
+
+/* Class = "UITextField"; placeholder = "password verify"; ObjectID = "MeO-t9-qTP"; */
+"MeO-t9-qTP.placeholder" = "verifica la contraseña";
+
+/* Class = "UILabel"; text = "OS Version:"; ObjectID = "NlK-tV-0Ww"; */
+"NlK-tV-0Ww.text" = "Versión del Sistema:";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "NuL-uq-76w"; */
+"NuL-uq-76w.text" = "Apellido";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "PuX-Eg-qGX"; */
+"PuX-Eg-qGX.text" = "Correo";
+
+/* Class = "UILabel"; text = "People"; ObjectID = "QcC-GV-43F"; */
+"QcC-GV-43F.text" = "Contactos";
+
+/* Class = "UIButton"; normalTitle = "Revoke Access"; ObjectID = "QyX-6t-90R"; */
+"QyX-6t-90R.normalTitle" = "Remover acceso";
+
+/* Class = "UILabel"; text = "Please type the new password:"; ObjectID = "RJS-Eo-mIa"; */
+"RJS-Eo-mIa.text" = "Por favor, escriba su nueva contraseña:";
+
+/* Class = "UITabBarItem"; title = "Locations"; ObjectID = "Rnk-qG-579"; */
+"Rnk-qG-579.title" = "Home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SaB-wr-Q6y"; */
+"SaB-wr-Q6y.text" = "Etiqueta";
+
+/* Class = "UINavigationItem"; title = "Invitation"; ObjectID = "TOn-qG-w5E"; */
+"TOn-qG-w5E.title" = "Invitación";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "UxM-MF-saz"; */
+"UxM-MF-saz.normalTitle" = "¿Olvidó su contraseña?";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Vg9-b7-u57"; */
+"Vg9-b7-u57.text" = "Correo";
+
+/* Class = "UILabel"; text = "Device Id to be shared:"; ObjectID = "Xhp-yM-CDW"; */
+"Xhp-yM-CDW.text" = "Identificador del móvil:";
+
+/* Class = "UILabel"; text = "People with access to this device:"; ObjectID = "Ycq-z9-nmL"; */
+"Ycq-z9-nmL.text" = "Gente con acceso a tu ubicación";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Ydf-Ks-Nc9"; */
+"Ydf-Ks-Nc9.text" = "Nombre";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "Ylx-Pi-CC9"; */
+"Ylx-Pi-CC9.title" = "Cancelar";
+
+/* Class = "UILabel"; text = "Owner"; ObjectID = "Ynj-9g-T4i"; */
+"Ynj-9g-T4i.text" = "Dueño";
+
+/* Class = "UILabel"; text = "My Device Name:"; ObjectID = "Z4I-va-SFi"; */
+"Z4I-va-SFi.text" = "Nombre de mi móvil";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Z5q-8z-ULD"; */
+"Z5q-8z-ULD.normalTitle" = "Atrás";
+
+/* Class = "UILabel"; text = "Device Id:"; ObjectID = "ZCH-6W-82m"; */
+"ZCH-6W-82m.text" = "Id del móvil:";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Zrn-qZ-e0U"; */
+"Zrn-qZ-e0U.text" = "nombre";
+
+/* Class = "UILabel"; text = "target email"; ObjectID = "bGK-uB-Dt5"; */
+"bGK-uB-Dt5.text" = "email";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "bHA-bm-Kra"; */
+"bHA-bm-Kra.normalTitle" = "Resetear contraseña";
+
+/* Class = "UISegmentedControl"; bK3-5J-a2c.segmentTitles[0] = "Mine"; ObjectID = "bK3-5J-a2c"; */
+"bK3-5J-a2c.segmentTitles[0]" = "Mios";
+
+/* Class = "UISegmentedControl"; bK3-5J-a2c.segmentTitles[1] = "Guest"; ObjectID = "bK3-5J-a2c"; */
+"bK3-5J-a2c.segmentTitles[1]" = "Siguiendo";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "bfO-nT-1QJ"; */
+"bfO-nT-1QJ.text" = "Correo";
+
+/* Class = "UINavigationItem"; title = "Sign up"; ObjectID = "bkS-Mx-u7f"; */
+"bkS-Mx-u7f.title" = "Registrarse";
+
+/* Class = "UIButton"; normalTitle = "Send Invitation"; ObjectID = "ciZ-6I-mwK"; */
+"ciZ-6I-mwK.normalTitle" = "Mandar invitación";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "cyU-AW-JaH"; */
+"cyU-AW-JaH.title" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "d8o-aw-fp1"; */
+"d8o-aw-fp1.normalTitle" = "Registrarse";
+
+/* Class = "UIButton"; normalTitle = "Send password reset request"; ObjectID = "dPl-L5-8Qa"; */
+"dPl-L5-8Qa.normalTitle" = "Resetear la contraseña";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dWd-r1-JZp"; */
+"dWd-r1-JZp.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Device Type"; ObjectID = "eBw-Ii-TKK"; */
+"eBw-Ii-TKK.text" = "Tipo de móvil";
+
+/* Class = "UIButton"; normalTitle = "Add profile photo"; ObjectID = "eK1-cy-czH"; */
+"eK1-cy-czH.normalTitle" = "Añadir foto";
+
+/* Class = "UILabel"; text = "Confirm Email"; ObjectID = "en7-b4-5Um"; */
+"en7-b4-5Um.text" = "Confirmar correo";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "epw-b4-hpF"; */
+"epw-b4-hpF.normalTitle" = "Registrarse";
+
+/* Class = "UILabel"; text = "OS Version"; ObjectID = "fB0-67-pJg"; */
+"fB0-67-pJg.text" = "Sistema Operativo";
+
+/* Class = "UILabel"; text = "Owner"; ObjectID = "fUn-9l-9Tp"; */
+"fUn-9l-9Tp.text" = "Dueño";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "fWg-ok-cVG"; */
+"fWg-ok-cVG.title" = "Cancelar";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "hff-ht-oAg"; */
+"hff-ht-oAg.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Reject Invitation"; ObjectID = "hpI-c9-J2h"; */
+"hpI-c9-J2h.normalTitle" = "Rechazar";
+
+/* Class = "UINavigationItem"; title = "Create an account"; ObjectID = "i1P-yu-X7h"; */
+"i1P-yu-X7h.title" = "Crear cuenta";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "ixl-3E-Uw7"; */
+"ixl-3E-Uw7.normalTitle" = "Registrarse";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "mVo-Gb-FLg"; */
+"mVo-Gb-FLg.placeholder" = "Apellido";
+
+/* Class = "UILabel"; text = "Last location update"; ObjectID = "mhf-L9-Qqo"; */
+"mhf-L9-Qqo.text" = "Última ubicación";
+
+/* Class = "UITabBarItem"; title = "Invitations"; ObjectID = "mtc-0y-qNw"; */
+"mtc-0y-qNw.title" = "Invitaciones";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "oDh-xP-wTN"; */
+"oDh-xP-wTN.text" = "Correo";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "odi-jp-ALe"; */
+"odi-jp-ALe.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "ogR-Sc-Xer"; */
+"ogR-Sc-Xer.normalTitle" = "SIGUENTE";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "onT-ri-Mbm"; */
+"onT-ri-Mbm.text" = "Correo";
+
+/* Class = "UILabel"; text = "Device name"; ObjectID = "owq-5z-n6N"; */
+"owq-5z-n6N.text" = "Nombre del móvil";
+
+/* Class = "UILabel"; text = "My Device Id:"; ObjectID = "py3-0N-Y5O"; */
+"py3-0N-Y5O.text" = "Id del móvil:";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "sIA-pS-hSX"; */
+"sIA-pS-hSX.placeholder" = "contraseña";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "tRC-Yv-iB3"; */
+"tRC-Yv-iB3.text" = "Correo";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "tVq-0l-mye"; */
+"tVq-0l-mye.text" = "Correo";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "tgK-LB-S7Y"; */
+"tgK-LB-S7Y.title" = "Cancelar";
+
+/* Class = "UILabel"; text = "Target email:"; ObjectID = "tlY-IP-bV6"; */
+"tlY-IP-bV6.text" = "email:";
+
+/* Class = "UILabel"; text = "Device Id"; ObjectID = "tvC-kE-ZQZ"; */
+"tvC-kE-ZQZ.text" = "Id del móvil";
+
+/* Class = "UIButton"; normalTitle = "Accept Invitation"; ObjectID = "ue0-2B-9do"; */
+"ue0-2B-9do.normalTitle" = "Aceptar invitación";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "vAs-Qp-WXI"; */
+"vAs-Qp-WXI.placeholder" = "Confirmar contraseña";
+
+/* Class = "UILabel"; text = "Device Id"; ObjectID = "wj3-vL-5Xz"; */
+"wj3-vL-5Xz.text" = "Id del móvil";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "x2U-xs-D0a"; */
+"x2U-xs-D0a.text" = "Nombre";
+
+/* Class = "UILabel"; text = "My Device OS Version:"; ObjectID = "xGo-uV-4pu"; */
+"xGo-uV-4pu.text" = "Sistema Operativo:";
+
+/* Class = "UIButton"; normalTitle = "Send Invitation"; ObjectID = "yLF-g5-HFV"; */
+"yLF-g5-HFV.normalTitle" = "Mandar invitación";
+
+"w7r-ju-iWT.normalTitle" = "INVITAR";
+
+/* Class = "UITextField"; placeholder = "Confirm email"; ObjectID = "ggL-cK-X7Y"; */
+"ggL-cK-X7Y.placeholder" = "Confirmar correo";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "xx9-of-Pf7"; */
+"xx9-of-Pf7.placeholder" = "Nombre";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "rc2-1d-hoP"; */
+"rc2-1d-hoP.placeholder" = "Apellido";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "E6U-oS-rru"; */
+"E6U-oS-rru.placeholder" = "Correo";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "vFu-fO-krw"; */
+"vFu-fO-krw.placeholder" = "Confirmar contraseña";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "tfW-Dg-mc9"; */
+"tfW-Dg-mc9.placeholder" = "Contraseña";
+
+
+/* Class = "UIButton"; normalTitle = "Add profile photo"; ObjectID = "4Bi-oQ-Llv"; */
+"4Bi-oQ-Llv.normalTitle" = "AÑADIR FOTO";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "1uZ-Xf-pFL"; */
+"1uZ-Xf-pFL.normalTitle" = "Registrarse";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "H6j-0e-wLH"; */
+"H6j-0e-wLH.normalTitle" = "POLÍTICAS DE PRIVACIDAD";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "2ed-fZ-fVd"; */
+"2ed-fZ-fVd.normalTitle" = "TÉRMINOS DE SERVICIO";
+
+"oU7-AE-VgW.normalTitle" = "ELIMINAR AMIG@";
+
+"pOg-Ia-jyk.normalTitle" = "DEJAR DE SEGUIR";
+
+"efA-gB-8b6.text" = "Personas";
+
+"fYr-xy-Re2.text" = "Verificación de Cuenta";
+
+"kt4-K7-dYj.placeholder" = "Código de Verificación";
+
+"XqU-RZ-2gC.normalTitle" = "VERIFICAR CÓDIGO";
+
+"ogR-Sc-Xer.normalTitle" = "SIGUIENTE";
+
+"ncH-f9-PWV.text" = "Registro";
+
+"d0v-4Q-ENQ.placeholder" = "Nombre";
+
+"gTb-85-mv1.placeholder" = "Apellido";
+
+"fst-hM-tAn.normalTitle" = "SIGUIENTE";
+
+"dX3-2j-OvE.text" = "Página 1 de 2";
+
+"PHQ-ct-A7U.text" = "Página 2 de 2";
+
+"v7E-ix-2i3.text" = "Invita a que te sigan";
+
+"h2i-aO-5SX.normalTitle" = "ENVIAR INVITACIÓN";
+
+"IAn-UT-XWo.normalTitle" = "Enviar un nuevo código";
+
+"W6I-Ca-nUQ.text" = "Atención: Ahorro de batería está encendido, por lo que no podremos compartir su ubicación. Ve a Configuración > Batería para arreglar esto.";
+
+"qNj-Rw-AEG.text" = "Para comenzar, introduce tu número de teléfono o correo.";
+
+"vPu-A0-TJ4.normalTitle" = "SOPORTE POR EMAIL";
+
+"59w-Hh-Rxv.normalTitle" = "SOPORTE POR DISCORD";
+
+"Gxr-jz-UQG.normalTitle" = "SELECCIONAR CONTACTO";
+
+"nFc-Eb-FVe.title" = "Invitar";
+
+"Jf1-XV-4LE.normalTitle" = "INVITAR";
+
+"Cxw-7o-Qli.text" = "Tiempo de expiración:";
+
+"nqV-0a-0Xd.text" = "Debe de compartir el link con la persona que desea que le siga";
+
+"kDC-hV-81J.normalTitle" = "COPIAR";
+
+"40S-Z6-9sX.text" = "🔒 Localización cifrada de extremo a extremo";
+
+"hXo-fo-hdu.normalTitle" = "IR AL LOGIN";

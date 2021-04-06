@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Emergency"; ObjectID = "cR9-MO-T36"; */
+"cR9-MO-T36.text" = "Emergencia";
+
+/* Class = "UIButton"; normalTitle = "VIEW HISTORICAL LOCATION"; ObjectID = "npj-Up-BzH"; */
+"npj-Up-BzH.normalTitle" = "UBICACIÓN HISTÓRICA (ÚLTIMOS 7 DÍAS)";
+
+/* Class = "UILabel"; text = "Atention! Blank has enabled emergency mode."; ObjectID = "paf-Rg-aP7"; */
+"paf-Rg-aP7.text" = "Atention! Blank has enabled emergency mode.";

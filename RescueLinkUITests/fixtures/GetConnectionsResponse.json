@@ -1,0 +1,424 @@
+{
+  "success": true,
+  "result": {
+    "followers": {
+      "gdiaz": {
+        "userDetails": {
+          "username": "gdiaz",
+          "email": "dr27@gmail.com",
+          "firstName": "Gabriel",
+          "lastName": "Diaz",
+          "picture": "278722de-82e9-4f55-8633-95ba3335c07f"
+        }
+      },
+      "coche": {
+        "userDetails": {
+          "username": "coche",
+          "email": "luisco@gmail.com",
+          "firstName": "Coche",
+          "lastName": "Rsdfsdf",
+          "picture": "joseluis.jpg"
+        }
+      },
+      "zurcaleriam": {
+        "userDetails": {
+          "username": "zurca",
+          "email": "zurca@hotmail.com",
+          "firstName": "Mariela",
+          "lastName": "Cruz",
+          "picture": "maye.jpg"
+        }
+      },
+      "lalital": {
+        "userDetails": {
+          "username": "lalilai",
+          "email": "lalilai@hotmail.com",
+          "firstName": "Laura",
+          "lastName": "Tyler",
+          "picture": "131e2131-9c9d-4ecd-a239-733bafbac2e5"
+        }
+      },
+      "rubendario": {
+        "userDetails": {
+          "username": "rubendario",
+          "email": "rub@gmail.com",
+          "firstName": "Ruler",
+          "lastName": "Leynard",
+          "picture": "c6f9fa71-c0c2-4f8f-aa8e-c58ddfe9a290"
+        }
+      },
+      "chavacheves": {
+        "userDetails": {
+          "username": "chavacheves",
+          "email": "chavechivi@gmail.com",
+          "firstName": "chava",
+          "lastName": "medina",
+          "picture": "8373830d-742e-42ba-b8f5-57025d9ae811"
+        }
+      },
+      "bertha": {
+        "userDetails": {
+          "username": "bertha",
+          "email": "132455431@gmail.com",
+          "firstName": "Bertha",
+          "lastName": "Rsdfsdf",
+          "picture": "berthapic.jpg"
+        }
+      },
+      "griffobeid": {
+        "userDetails": {
+          "username": "griffobeid",
+          "email": "sdfgsdfg@sdf.com",
+          "firstName": "Griffin",
+          "lastName": "Obeid",
+          "picture": "5e5e8921-75bb-4b8c-b30d-fd6ba8472726"
+        }
+      },
+      "AmoDelMerol": {
+        "userDetails": {
+          "username": "AmoDelMerol",
+          "email": "234234@gasdfasdfl.com",
+          "firstName": "Amo",
+          "lastName": "DelMerol",
+          "picture": "17eae8c0-5d9b-4112-b605-2164f55a8d67"
+        }
+      },
+      "dariocloud": {
+        "userDetails": {
+          "username": "dariocloud",
+          "email": "edsfgsdfgsdfgh@me.com",
+          "firstName": "DarioCloud",
+          "lastName": "Cloud",
+          "picture": "bf41a87b-a2c6-4b0b-ac01-5957a7e0e208"
+        }
+      },
+      "JlDesign00": {
+        "userDetails": {
+          "username": "JlDesign00",
+          "email": "asdfasdfasdf@yahoo.com",
+          "firstName": "Luis",
+          "lastName": "figueroa",
+          "picture": "8234d839-021e-49be-a9fb-795bf2f16cbb"
+        }
+      }
+    },
+    "following": {
+      "zurcaleriam": {
+        "userDetails": {
+          "username": "zurcaleriam",
+          "firstName": "Mariela",
+          "lastName": "Cruz",
+          "email": "3453455345@yahoo.com",
+          "picture": "maye.jpg"
+        },
+        "devices": [
+          {
+            "deviceId": "BBE12922-8154-49BC-B3E1-706B76370C61",
+            "os": "iOS",
+            "osVersion": "13.2.3",
+            "telemetry": {
+              "timestamp": "2020-02-28T01:35:11.816Z",
+              "location": {
+                "lat": 42.3861374371781,
+                "lon": -82.9411670174608
+              }
+            }
+          },
+          {
+            "deviceId": "maye_iphone",
+            "os": "UNKNOWN",
+            "osVersion": "UNKNOWN",
+            "telemetry": {
+              "timestamp": "2019-11-04T04:17:41.923Z",
+              "location": {
+                "lat": 42.562863,
+                "lon": -83.184511
+              }
+            }
+          },
+          {
+            "deviceId": "92b3c594f0278e04",
+            "os": "Android",
+            "osVersion": "19",
+            "telemetry": {
+              "timestamp": "2019-11-22T05:11:27.963Z",
+              "location": {
+                "lat": 42.38625,
+                "lon": -82.9412
+              }
+            }
+          }
+        ]
+      },
+      "rubendario": {
+        "userDetails": {
+          "username": "rubendario",
+          "firstName": "Rubén",
+          "lastName": "werrtwert",
+          "email": "asdfjkhsan@sdafsdf.cxom",
+          "picture": "c6f9fa71-c0c2-4f8f-aa8e-c58ddfe9a290"
+        },
+        "devices": [
+          {
+            "deviceId": "2AEF3800-21F3-4843-9EEC-F4D6BE4377A4",
+            "os": "iOS",
+            "osVersion": "10.3.4",
+            "telemetry": {
+              "timestamp": "2020-02-28T01:32:08.164Z",
+              "location": {
+                "lat": 20.7064482642185,
+                "lon": -101.369353645597
+              }
+            }
+          },
+          {
+            "deviceId": "0013EE54-80A9-47CB-BE7A-9E949C947AF2",
+            "os": "iOS",
+            "osVersion": "10.3.4",
+            "telemetry": {
+              "timestamp": "2020-01-04T00:34:23.528Z",
+              "location": {
+                "lat": 20.6688800454332,
+                "lon": -101.346137747263
+              }
+            }
+          }
+        ]
+      },
+      "romina": {
+        "userDetails": {
+          "username": "romina",
+          "firstName": "Romina",
+          "lastName": "wertwergdf",
+          "email": "sadfsdfgdsfgbsdffhg@hotmail.com",
+          "picture": "3cd15b65-e99d-46f4-a7d9-52c19cd6ceff"
+        },
+        "devices": [
+          {
+            "deviceId": "26A42A87-8865-4AB1-801F-6D32736CE17C",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2020-02-28T01:34:48.332Z",
+              "location": {
+                "lat": 55.6817867045061,
+                "lon": 12.5567260122126
+              }
+            }
+          }
+        ]
+      },
+      "lalital": {
+        "userDetails": {
+          "username": "lalital",
+          "firstName": "Laura",
+          "lastName": "Talarico",
+          "email": "aerfasdfasdf@asdfasd.com",
+          "picture": "131e2131-9c9d-4ecd-a239-733bafbac2e5"
+        },
+        "devices": [
+          {
+            "deviceId": "133F5648-3BCF-4F35-89BB-7E251CC6CB3A",
+            "os": "iOS",
+            "osVersion": "11.4.1",
+            "telemetry": {
+              "timestamp": "2020-02-28T01:35:07.856Z",
+              "location": {
+                "lat": 20.7038176563332,
+                "lon": -101.3691313215
+              }
+            }
+          }
+        ]
+      },
+      "griffobeid": {
+        "userDetails": {
+          "username": "griffobeid",
+          "firstName": "Griffin",
+          "lastName": "Obeid",
+          "email": "sdfgsdfg@sdf.com",
+          "picture": "5e5e8921-75bb-4b8c-b30d-fd6ba8472726"
+        },
+        "devices": [
+          {
+            "deviceId": "637FC241-730F-496C-8AC1-929530787396",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2020-02-28T01:35:13.221Z",
+              "location": {
+                "lat": 42.2933699030026,
+                "lon": -83.6852957841489
+              }
+            }
+          }
+        ]
+      },
+      "dariocloud": {
+        "userDetails": {
+          "username": "dariocloud",
+          "firstName": "DarioCloud",
+          "lastName": "Cloud",
+          "email": "edsfgsdfgsdfgh@me.com",
+          "picture": "bf41a87b-a2c6-4b0b-ac01-5957a7e0e208"
+        },
+        "devices": [
+          {
+            "deviceId": "BF023F00-3CF0-4120-A998-3F67C3FABAF5",
+            "os": "iOS",
+            "osVersion": "10.3.1",
+            "telemetry": {
+              "timestamp": "2020-01-31T06:49:31.505Z",
+              "location": {
+                "lat": 9.837738,
+                "lon": -83.449242
+              }
+            }
+          },
+          {
+            "deviceId": "375BC4C3-F7A4-4321-99BE-AD62EEF9F890",
+            "os": "iOS",
+            "osVersion": "10.3.1",
+            "telemetry": {
+              "timestamp": "2020-02-04T06:41:27.093Z",
+              "location": {
+                "lat": 37.32746542,
+                "lon": -122.01972558
+              }
+            }
+          },
+          {
+            "deviceId": "54EB1475-F5C2-494C-A12A-A7C63A3EE1D5",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2020-02-26T04:38:42.885Z",
+              "location": {
+                "lat": 37.33060766,
+                "lon": -122.02940612
+              }
+            }
+          },
+          {
+            "deviceId": "5ea9ed35e707003c",
+            "os": "Android",
+            "osVersion": "19",
+            "telemetry": {
+              "timestamp": "2020-01-25T05:49:00.595Z",
+              "location": {
+                "lat": 42.3865032,
+                "lon": -82.9412907
+              }
+            }
+          }
+        ]
+      },
+      "coche": {
+        "userDetails": {
+          "username": "coche",
+          "firstName": "Coche",
+          "lastName": "Rsdfsdf",
+          "email": "aerfasdfasdf@asdfasd.com",
+          "picture": "joseluis.jpg"
+        },
+        "devices": [
+          {
+            "deviceId": "3297B808-4CCF-429A-B735-FF3232637DF9",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2020-02-24T05:35:26.946Z",
+              "location": {
+                "lat": 37.33767621,
+                "lon": -122.02926352
+              }
+            }
+          },
+          {
+            "deviceId": "FAFB801D-A827-4AC6-B81C-B7AD907C4A92",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2020-02-19T14:44:26.930Z",
+              "location": {
+                "lat": 37.33170505,
+                "lon": -122.02320839
+              }
+            }
+          },
+          {
+            "deviceId": "9AE733C5-42DD-4652-8E27-4068E96C6301",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2020-02-27T13:31:42.906Z",
+              "location": {
+                "lat": 21.1150290537822,
+                "lon": -101.615911480134
+              }
+            }
+          },
+          {
+            "deviceId": "EFD36701-1DCB-4C95-9145-3B17C8FC5A43",
+            "os": "iOS",
+            "osVersion": "10.3.1",
+            "telemetry": {
+              "timestamp": "2019-12-28T23:46:34.412Z",
+              "location": {
+                "lat": 37.33233141,
+                "lon": -122.0312186
+              }
+            }
+          },
+          {
+            "deviceId": "EEA71CB6-F92D-41BB-9B54-195B7404EF36",
+            "os": "iOS",
+            "osVersion": "13.3",
+            "telemetry": {
+              "timestamp": "2019-12-19T00:15:05.530Z",
+              "location": {
+                "lat": 21.1151256872543,
+                "lon": -101.615870553766
+              }
+            }
+          },
+          {
+            "deviceId": "asimovlivescoche",
+            "os": "iOS",
+            "osVersion": "13.0",
+            "telemetry": {
+              "timestamp": "2019-12-19T18:10:37.114Z",
+              "location": {
+                "lat": 21.1151086399528,
+                "lon": -101.615932099616
+              }
+            }
+          }
+        ]
+      },
+      "bertha": {
+        "userDetails": {
+          "username": "bertha",
+          "firstName": "Bertha",
+          "lastName": "Rsdfsdf",
+          "email": "132455431@gmail.com",
+          "picture": "berthapic.jpg"
+        },
+        "devices": [
+          {
+            "deviceId": "d8de0c910afb87d0",
+            "os": "Android",
+            "osVersion": "23",
+            "telemetry": {
+              "timestamp": "2020-02-22T15:53:38.515Z",
+              "location": {
+                "lat": 21.14801,
+                "lon": -101.6920324
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
