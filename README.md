@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="docs/logo/logo_circular.svg" title="Armore" width="200" float=left>
+  <img src="docs/logo-v2/Armore-circular.svg" title="Armore" width="200" float=left>
 </p>
 
 <p align="center">
