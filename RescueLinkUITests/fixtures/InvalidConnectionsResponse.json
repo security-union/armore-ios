@@ -1,0 +1,111 @@
+{
+    "success": true,
+    "result": {
+        "followers": {
+            "dario": {
+                "userDetails": {
+                    "username": "dario",
+                    "firstName": "Dario",
+                    "lastName": "Lencina-Talarico",
+                    "email": "aerfasdfasdf@asdfasd.com",
+                    "picture": "9acb9b1f-49f9-43c6-aaa3-3d1d853c827e"
+                },
+                "accessType": "Permanent",
+                "telemetry": null,
+                "state": null,
+                "publicKey": "MIICIDANBgkqhkiG9w0BAQEFAAOCAg0AMIICCAKCAgEA9glCYLbaoyCAS8tUGSRObZUXDwh3i83w\nhRW3tqEHs3iH2Y5ZqAJSinRWegbefkBJBgqoxw9GUmEcCTty2El1MQgIpsjr3uzfKLvIQd3JPpgt\nTLFEodOQ5MS+4iEXTgmhqUwpZnUHuY6struawOpR2RYHspB8YKJlHDAUZgstynzhlrrtdjUgAibe\nUgdHwU21+SbE5ECMV3X4rdla00/PWShC1B+EtaWsaCVIbyv5pZsR4JO8uVJbTnpT83g0XadBX40L\nc51SEuAFECugfVAlToamqiKVUZbL3j6AY2eFF4GPHvcxeM+xerJim0usQFLys+Nom0M9SL7nbdPb\nbftFrMaPBvkAsqdU6WmhhUaS9o/u9OLtZwsuF/884513HbrypImhWNT26ZY/WoHAlz9aFq5E118M\nXi9Tj1l2GN1hL+JUlXUVfdi/aWL40wnqUHRezQnJCLA/p5HbDjyZ9xepede9FAtGBGx24/tFryUX\n6KljDIMGb81AJhb909MVKZA/pYSsbUTfqk3y6Mmv5owV4pDGyOG9pRL2UF5JBdFUhkEDhgn7jeBZ\nhFrMMqJYtEdHLMrtNE7mkkl4aa2/2mbnCM924oP2w+gq6QA5uQaUjLRU8W4fJVfdMQeC0sPNKi32\naonJEV7mbsrTkoNg6sIRE3N+k/fogs99QoXRKmWCGbkCAQs="
+            },
+            "dariocloud": {
+                "userDetails": {
+                    "username": "dariocloud",
+                    "firstName": "DarioCloud",
+                    "lastName": "Cloud",
+                    "email": "edsfgsdfgsdfgh@me.com",
+                    "picture": "34a4a82d-ec5e-438a-b0b3-c92c78f140b5"
+                },
+                "accessType": "Permanent",
+                "telemetry": null,
+                "state": null,
+                "publicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxnNL+QJqFiDmqfduTbZLI2OoDDgcyZIB\nQRCMjVz/xqgbQjnoQR0IwmUbyS3QrU7zW2D58qVomj0EEfY2PPYggDX60ug9obSM9HKDpxWLdP0e\nqxhM7A8epdY1wEDgIqxsBpgnxfYkE4gerHZhP7WJsR/9CPq0G2X9rVrcttP2RtFwIxnhnVqiKQOz\n/qnCKnlKA0BH4mutJLJG0o4jykIUkQKit0s45PtLLs5UbHKWjP24WzdkkrqGh9hsjrLbP9+OmGE+\nENrzA4uivI85HZ7ueOfRxFJ5Jdqgg09RTqf8HxjD98tEXNHOIdglYRC/1O4z5z0+oUptRVnMpqv7\noQEbxm4yKPhbEx+b3ovoATCn+ywG+mDz6Gnv5LldCpiyZwWxVHMcIpg6pKPrBof0V0auRdlSoBiO\nfH0UiM6eeuS68JiEIYMIxAMBIKqHxwtohA8FAvo/4fflVNRVWy0ACUEPunD2lnboJIBsKGMi58zJ\nmWNisFEbgjGZ+hxWJ6A2Y7Z0Lr5jwWI7b76QiRs6VDIT6HDONLrjYbAp8LiHIEfhsy25mpDyczLI\n02KdIUFR9yTFjy2pHKzSL0/Up1fzcoDuN2zVyyhjECfXaIOpQVYeiWAU1nQbUkxPYOTY3hs2VJVV\nZleOYs5lnYtQC8ckAiMgp6q75zEG9gH0R9U0ffOvHOMCAwEAAQ=="
+            },
+            "bertha": {
+                "userDetails": {
+                    "username": "bertha",
+                    "firstName": "Bertha",
+                    "lastName": "Rsdfsdf",
+                    "email": "132455431@gmail.com",
+                    "picture": "berthapic.jpg"
+                },
+                "accessType": "Permanent",
+                "telemetry": null,
+                "state": null,
+                "publicKey": "MIICIDANBgkqhkiG9w0BAQEFAAOCAg0AMIICCAKCAgEAwRCC6YjFbEkEFzNfGXniHhwbDaAV5CWh\ntHXirPDILdbkIwetDgK09KfbXZCJuxG9gn7NEamhuV6pDK9muzj9Wl7bBRHT9eeUUqyR/BpFqBv3\nSfzxKnhCTIuQiFO3LwVVXfoo5JE8ffXwZkQzvu+jWDq1dJNtAPJbwquJLY3pKl1sYGRCNVTfzq5Y\nmObN4uweTrvrUdCMgDxpQ+toRxoZqZsFnsJHnScgcSX5pXwfjIH6MmLzO3kNG0YNuthoRcRRWNXZ\nqcq8OkKn+EZ5QMoeJFuM00Ywaz5h6cJ6zxcSaNy3mJC6fxxV4YRSmlIuayXNKRpnAo338cpCQn7A\nxs4L5XsyYucBxbQ2fbiRhnanysHhDKHCGqqPJ3LXuv+zGTPqFAzVreybUxnqca7IvolOzTW4Vo66\nOlJ6tdqaov0v8shhY9FWvCKld44dyxjjcxafl6M6ANI/okNfWaN2Hs2c1mt0XHx07+SaVK/n1hzf\n3OHrpmKNE/q+FBi9hh3uGFnGG6Q13HHL7peMS37wkrk7I40Dj7+au44mvnn1eZidnmbvnfYt75NF\nViu1sTCk4RDNS5UUNO4eljQ0SvnLm55ciL3wAEH+sEzs8C7Ck+Jc1gpqXQ5qN7fhuJ+Kbe2u3sZC\nqGwDsQjBXUVwRPRK5x2gKI7t48CxcQvsptFcgfK18+8CAQs=\n"
+            }
+        },
+        "following": {
+            "dariocloud": {
+                "userDetails": {
+                    "username": "dariocloud",
+                    "firstName": "DarioCloud",
+                    "lastName": "Cloud",
+                    "email": "edsfgsdfgsdfgh@me.com",
+                    "picture": "34a4a82d-ec5e-438a-b0b3-c92c78f140b5"
+                },
+                "accessType": "Permanent",
+                "telemetry": {
+                    "data": "PXQLdUNV8sd+nx60dHTJntrWkNn7E+TaVcmDlHLwmKcUDUZu1zV1QKHB5tR7loPFoz29zgYlGMvw\r\nZ8YIUtaUKNlHI8zNauq+aTNiaLaJgHWtkxUBE6LJqdX/rdPnj3jDRkNRgWF0t2oJRPrXhCEP/iCH\r\nqvFEfQJ0J1OGZyRi8Oku7EjMgMOj1ScOE0WigL8QRqYaMf2SyBztEJ/KlmnH73Dx0rQDuxN7tMrg\r\n5dHPPmstwmmvLsKpqwHNl7wrSukK9D/nUk5RH4NbRcrt8J2WKlvtyb2ZsgV9TFpmhbFTZtXtJie2\r\nYrTkY59fNJQhdmuNQAXXaa408JKhSN/OqYwGaTLKxNBoFFnqKetyEiev4RlR7L0+JADMWYMXPmGO\r\nrKEI4wrimbH0ibAv+xrraR5hrWPg4PCcS9Ldwad56D6k6qZTaWpDqa4t8aS+tdsvQS+2/se/oMSf\r\n62E2qpxd17xSA4UpdeKR9j/xAsNoPcEmrLxWoQ+BXhyRB1VNt6Ej6My8zXUPAt07T7Pk3ntcCZw+\r\nF82425KjNp3WBzHBbYEScMMNCdJNAii+bEpIxwd0jVdwT4S9bkJeuJsGatKQKiaIDOSZS/pE1ZdI\r\n1aXSOOtmWiIxWXsmhPzesWFINRUiPR65eA0uSC3zulx5Akw0OFAjEJ5loi7EQ5xCmDKVP5KdeFY=",
+                    "timestamp": "2020-07-26T01:04:23.000Z",
+                    "batteryState": {
+                        "batteryLevel": 3.0,
+                        "chargingState": "NotCharging",
+                        "isCharging": false
+                    }
+                },
+                "state": "Normal",
+                "publicKey": null
+            },
+            "bertha": {
+                "userDetails": {
+                    "username": "bertha",
+                    "firstName": "Bertha",
+                    "lastName": "Rsdfsdf",
+                    "email": "132455431@gmail.com",
+                    "picture": "berthapic.jpg"
+                },
+                "accessType": "Permanent",
+                "telemetry": {
+                    "data": "Kr2YiL9XyevzE03Wn1pU0U49JAegQuDZ7+tCRo6ik8A+yi17vFtcx8oWYMiz7NpzDMS0/A2vD86P\nBZrTBc10X4ePFSrFruyjb7RIl54DX50vU+K7MOz6y6g3Pyf/09DfHQljwF2SprCs9K3zdvi/qQS8\nF3sm2wLsB78sVs3FM24bFixoCFSWx6zptVefT2rbodfplBncr/3EjY+oanLduVwEhIbkCwsu3spE\neCczXWkbFqzr8EVrWs2TfHqQwEkPlnrYAbHLQUC+6v6qOB/GvqTAdb6BfcdlK/UqczdGJimHO71M\ny8/+LhU0MksPfla1u42Qqrh3VsuXSRqym0wqnPDnNHOR/3IMYgAkwgvepQdL+XyhSDKP7jMztS5Y\ne/BRDzoi1WKnRfl5LjBc/rx7VaCXnI4Ih19SY99wusLIqliWBvWzJ3UUqAdtKPBekQCYh858Wkes\nCN5tXk7wIkxzEMn2qAwdfHFRXZn2bxMwAwsFDmr09zQM01HkuCFl8lZU3IYteGOGTadWLfdFv6kB\nBhx6ZCAevqgKU1tnDMjGIlOiBbxa0eq0+ro5tUgx9hCVBKrJmKVypP9+3PSZiHxZb0rMjVd2VQXx\nJD6A6b7iOn/8RAN5sGa0rh5kXNa55WkYY76GDiIaHf0xNg77WX/xh4npo8sS3LuRIMoKOyZAJ6E=\n",
+                    "timestamp": "2020-07-30T04:04:32.000Z",
+                    "batteryState": {
+                        "batteryLevel": 100.0,
+                        "chargingState": "ChargingUsb",
+                        "isCharging": true
+                    }
+                },
+                "state": "Normal",
+                "publicKey": null
+            },
+            "dario": {
+                "userDetails": {
+                    "username": "dario",
+                    "firstName": "Dario",
+                    "lastName": "Lencina-Talarico",
+                    "email": "aerfasdfasdf@asdfasd.com",
+                    "picture": "9acb9b1f-49f9-43c6-aaa3-3d1d853c827e"
+                },
+                "accessType": "Permanent",
+                "telemetry": {
+                    "data": "B3MVyVYgk5ahBFtiN+jCt2pdNWBhKBNOpu0eFRMDIoT+UtGAdpffIPG1Vgq1nAjngxHaYjY5z25Q\nKZlLaNc4ZlQgO/k8N/oGHWuPg+rWMTa3bBpbV8b3T2vdgPazS7I7a7OKeTV1Y3W8ozl0ukaAovWT\nsLO3gtpFxseZxoSQEK01zHZsoxK9BSipaouGPwWtoQArY5ODh/3Vek/Ra7ECIkZH7Xo5hVn4l1vM\n32KWpzIg4/C/iTq+PZgALyN7ww51GsmF7rnJkKY3fRiQ/xxj7Jrt3EkCONPogRXbFYyNbrgf4cIt\n1e9XnGxFk3ivBXJrzVcPoZIVdvEqC+y0nvuvARvfei2kBqzgSH5htCLPdwoiP9GOFQ7bfwmlg+rd\nVJMjHKkPmTNvfdA7aid4TkLkS6kJWW/90ula3j+Q/zOUuvMUQ/edNJGOGfZaLxBov9hm6MoqM3ZR\nvzGhmtTx1sgdO3T7TCdYC8bfesvLZa2HhyaYWbgsOa+hvCAKL7WcUzPtvQWNkXvqi4HdkSYueLPi\nrxU4SviPPsdqtUpPze0CejCR8eXm+NXKqI7wa26LKNZsuBjcQTD8nlwWkRQ7rEJaDAwI/xoKlq9g\nps3FylqKCkzuaMgl62KROpoGldHdIMFvjBSowx/YwyjSwUy7ncB3io2mSmOqzMheZzVtyffjY+k=\n",
+                    "timestamp": "2020-07-30T14:42:13.000Z",
+                    "batteryState": {
+                        "batteryLevel": 94.0,
+                        "chargingState": "NotCharging",
+                        "isCharging": false
+                    }
+                },
+                "state": "Normal",
+                "publicKey": null
+            }
+        }
+    }
+}

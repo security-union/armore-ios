@@ -1,0 +1,69 @@
+{
+  "result": {
+    "sent": [
+      {
+        "creatorUsername": "dariocloud",
+        "creator": {
+          "email": "edsfgsdfgsdfgh@me.com",
+          "firstName": "DarioCloud",
+          "lastName": "Cloud",
+          "picture": "bf41a87b-a2c6-4b0b-ac01-5957a7e0e208",
+          "username": "dariocloud"
+        },
+        "targetEmail": "dario@gmail.com",
+        "status": "created",
+        "invitation": {
+          "deviceId": "54EB1475-F5C2-494C-A12A-A7C63A3EE1D5",
+          "calendarAccess": {
+            "endDate": "0",
+            "startDate": "0"
+          },
+          "permanentAccess": "1",
+          "device": {
+            "deviceId": "54EB1475-F5C2-494C-A12A-A7C63A3EE1D5",
+            "role": "phone",
+            "name": "54EB1475-F5C2-494C-A12A-A7C63A3EE1D5",
+            "os": "iOS",
+            "model": "Simulator iPhone 8",
+            "osVersion": "13.3"
+          }
+        },
+        "type": "device",
+        "creationTimestamp": "2020-02-04T04:03:46.597Z",
+        "updateTimestamp": "2020-02-04T04:03:46.597Z",
+        "id": "95cddb8a-1539-4f3b-8d07-939c77232f08"
+      }
+    ],
+    "received": [
+      {
+        "creatorUsername": "dario",
+        "creator": {
+          "email": "dario@gmail.com",
+          "firstName": "Dario",
+          "lastName": "Lencina-Talarico",
+          "picture": "3aa1b809-1b6c-4aa9-a7d9-796f7284e22e",
+          "username": "dario"
+        },
+        "targetEmail": "edsfgsdfgsdfgh@me.com",
+        "status": "created",
+        "invitation": {
+          "deviceId": "b5dad9420ac16bd2",
+          "permanentAccess": true,
+          "device": {
+            "deviceId": "b5dad9420ac16bd2",
+            "role": "phone",
+            "name": "b5dad9420ac16bd2",
+            "os": "Android",
+            "model": "Samsung SM-G930U",
+            "osVersion": "26"
+          }
+        },
+        "type": "device",
+        "creationTimestamp": "2020-02-04T02:21:11.979Z",
+        "updateTimestamp": "2020-02-04T02:21:11.979Z",
+        "id": "de5d3152-d22b-4e7e-afde-9df1061b76ed"
+      }
+    ]
+  },
+  "success": true
+}

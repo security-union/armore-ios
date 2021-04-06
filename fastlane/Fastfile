@@ -1,0 +1,16 @@
+update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Run iOS tests"
+  lane :test do
+    run_tests(scheme: "RescueLink")
+  end
+  desc "Push a new release build to the App Store"
+  lane :deploy do
+    increment_build_number(xcodeproj: "RescueLink.xcodeproj")
+    build_app(workspace: "RescueLink.xcworkspace", scheme: "RescueLink")
+    upload_to_app_store
+  end
+end

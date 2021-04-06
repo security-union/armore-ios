@@ -1,0 +1,425 @@
+/* 
+  Localizable.strings
+  Armore
+
+  Created by Dario Talarico on 2/24/20.
+  Copyright © 2020 Security Union. All rights reserved.
+*/
+
+"Attention" = "Attention";
+
+"oTL-CT-4zv.text" = "Set location access to Always and turn on precise location so that we can share it with your friends and family.";
+
+"No received invitations." = "No received invitations.";
+
+"No sent invitations." = "No sent invitations.";
+
+"My device" = "My device";
+
+"Target email" = "email";
+
+"Target phone" = "phone";
+
+"Invitation" = "Invitation";
+
+"Invitations" = "Invitations";
+
+"ImageTooBigError" = "The selected image is to big for the platform right now. Please select a smaller one.";
+
+"Missing fields" = "Missing fields";
+
+"All fields need to be filled to sign in." = "All fields need to be filled to sign in.";
+
+"Signed up successfully" = "Signed up successfully";
+
+"You're now registered, please sign in." = "You're now registered, please sign in.";
+
+"Change image" = "Change image";
+
+"Add profile photo" = "Add profile photo";
+
+"All fields need to be filled to register." = "All fields need to be filled to register.";
+
+"My Location" = "My Location";
+
+"Invitation Sent" = "Invitation Sent";
+
+"The invitation was sent correctly to email" = "The invitation was sent correctly to email";
+
+"Your device" = "Your device";
+
+"Would you like to invite someone to follow this device?" =
+"Would you like to invite someone to follow this device?";
+
+"Yes, invite" = "Yes, invite";
+
+"Access" = "Access";
+
+"Enter the email of the person you want to invite:" = "Enter the email of the person you want to invite:";
+
+"Send" = "Send";
+
+"Cancel" =  "Cancel";
+
+"Invitation Accepted" = "Invitation Accepted";
+
+"You accepted the invitation from %@" = "You accepted the invitation from %@";
+
+"Ok" = "Ok";
+
+"Invitation Cancelled" = "Invitation Cancelled";
+
+"You cancelled the invitation to %@" = "You cancelled the invitation to %@";
+
+"Invitation Denied" = "Invitation Denied";
+
+"You cancelled the invitation from %@" = "You cancelled the invitation from %@";
+
+
+"I sent the invitation" = "I sent the invitation";
+
+"Cancel Invitation" = "Cancel Invitation";
+
+"To email:" = "To email:";
+
+"To phone:" = "To phone:";
+
+"Email:" = "Email:";
+
+"Phone:" = "Phone:";
+
+"Are you sure you want to cancel the invitation to %@?" = "Are you sure you want to cancel the invitation to %@?";
+
+"Accept Invitation" = "Accept Invitation";
+
+"accept_invitation_confirm_2" = "Are you sure that you want to accept the invitation to follow %@?";
+
+"Accept" = "Accept";
+
+"Reject Invitation" = "Reject Invitation";
+    
+"accept_invitation_confirm" = "Are you sure that you want to reject the invitation from %@?";
+    
+"Reject" = "Reject";
+    
+"No" = "No";
+
+"Access Revoked" = "Access Revoked";
+
+"The access was successfully revoked." = "The access was successfully revoked.";
+
+"My Device Name: %@" = "My Device Name: %@";
+"My Device Id: %@" = "My Device Id: %@";
+"My Device OS: %@" = "My Device OS: %@";
+"My Device Model: %@" = "My Device Model: %@";
+"My Device OS Version: %@" = "My Device OS Version: %@";
+"My Device" = "My Device";
+
+"Revoke Access" = "Revoke Access";
+
+"revoke_access_prompt" = "Do you want to revoke the access to the user: %@, to your location?";
+
+"Revoke" = "Revoke";
+
+"Your invitation to %@ was sent correctly." = "Your invitation to %@ was sent correctly.";
+
+"Invitation Sent" = "Invitation Sent";
+
+"Send Invitation" = "Invite a friend";
+
+"new_invitation_confirmation" = "Are you sure you want to send an invitation to %@ to access your location?";
+ 
+"Missing fields" = "Missing fields";
+
+"You need to write an email to send an invitation." = "You need to write an email to send an invitation.";
+
+"Login error" = "Login error";
+
+"password_reset_validation_error." =  "You need to write your username or email to reset your password.";
+
+"Here we will show your friends once you add them" = "Here we will show your friends once you add them";
+
+"Followers" = "FOLLOWERS";
+
+"Following" = "FOLLOWING";
+
+"Add follower" = "Add follower";
+
+"Share your location" = "Share your location";
+
+"Back" = "Back";
+
+"new_invitation_prompt" = "Invite a friend to follow each other";
+
+"Pull to refresh" = "Pull to refresh";
+
+"New" = "New";
+
+"Emergency Mode" = "Emergency Mode";
+
+"emergency_mode_notification" = "Now you're on emergency mode. All your followers will be notified.";
+
+"We will notify all your followers that you have an emergency in:" = "We will notify all your followers that you have an emergency in:";
+
+"seconds" = "seconds";
+
+"Emergency Mode Off" = "Emergency Mode Off";
+
+"emergency_state_off" = "Emergency state was successfully turned off.";
+
+"Error setting mode" = "Error setting mode";
+
+"Quit emergency mode" = "Quit emergency mode";
+
+"You are currently sharing your location with %@ all the time." = "You are currently sharing your location with %@ all the time.";
+
+"Change to share only on emergency mode" = "Change to share only on emergency mode";
+
+"You are currently sharing your location with %@ only on emergency mode." = "You are currently sharing your location with %@ only on emergency mode.";
+
+"Change to share all the time" = "Change to share all the time";
+
+"Unfollow" = "Unfollow";
+
+"Now %@ will only see your location on emergency mode." = "Now %@ will only see your location on emergency mode.";
+
+"Now %@ can see your location all the time." = "Now %@ can see your location all the time.";
+
+"Access modified" = "Access modified";
+
+"Turn off emergency mode" = "Turn off emergency mode";
+
+"Do you want to turn off emergency mode?" = "Do you want to turn off emergency mode?";
+
+"Attention! Blank has enabled emergency mode." = "Attention! %@ has enabled emergency mode.";
+
+"Error getting data" = "Error getting data";
+
+"Error" = "Error";
+
+"Error finding follower" = "Error finding follower data";
+
+"History Location" = "History Location";
+
+"No locations on selected time" = "No locations on selected time";
+
+"Historical location of %@" = "Historical location of %@";
+
+"Locations of today" = "Locations of today";
+
+"Only today" = "Only today";
+
+"%@ days ago" = "%@ days ago";
+
+"Locations since %@" = "Locations since %@";
+
+"Emergency" = "Emergency";
+
+"See historical location" = "See historical location";
+
+"Start Date:" = "Start Date:";
+
+"End Date:" = "End Date:";
+
+"Today" = "Today";
+
+"Done" = "Done";
+
+"Share all the time" = "Share all the time";
+
+"Share only on emergency mode" = "Share only on emergency mode";
+
+"Change access type" = "Change access type";
+
+"Do you want to change the access for %@ to see your location %@?" = "Do you want to change the access for %@ to see your location %@?";
+
+"Yes" = "Yes";
+
+"follower_access_emergency" = "Emergency only";
+
+"(follower_access_emergency)" = "(Emergency only)";
+
+"follower_access_permanent" = "Permanent access";
+
+"(follower_access_permanent)" = "(Permanent access)";
+
+"Options" = "Options";
+
+"You can unfollow %@" = "You can unfollow %@";
+
+"Connection settings" = "Connection settings";
+
+"Location" = "Location";
+
+"Save configuration" = "Save configuration";
+
+"Remove follower" = "Remove follower";
+
+"Error changing access" = "Error changing access";
+
+"Error removing follower" = "Error removing follower";
+
+"Do you want to remove %@ as a follower? (If you do this, %@ will not have access to your location anymore)" = "Do you want to remove %@ as a follower? (If you do this, %@ will not have access to your location anymore)";
+
+"Remove" = "Remove";
+
+"Follower removed" = "Follower removed";
+
+"%@ was removed as a follower." = "%@ was removed as a follower.";
+
+"logout_confirmation_title" = "Are you sure you want to remove your account?";
+
+"Error on location data" = "Error on location data";
+
+"history_location_no_data_2" = "It was not possible to decrypt %@'s location. This might be because you changed phones or deleted the account recently. It might take a couple of minutes to get new location updates.";
+
+"Loading historical location" = "Loading historical location";
+
+"history_location_no_data" = "%@ has not correctly sent his/her location data to you, please wait a couple of minutes.";
+
+"Remove Account?" = "Remove Account?";
+
+"Do you want to remove your account?" = "Do you want to remove your account?";
+
+"logout_confirmation" = "If this account is removed your followers will not be able to access your location until you login to a new device. All previous encrypted location data will be deleted. You will be able to access followers location and send your location from the moment you login again.";
+
+"I'm Sure" = "I'm Sure";
+
+"Historical location data error" = "Historical location data error";
+
+"Limited Access" = "Location is hidden";
+
+"server_parsing_error" = "Unable to parse the server response.";
+
+"You can only see %@'s location while they have SOS mode activated." = "You can only see %@'s location while they have SOS mode activated.";
+
+"Revoke request error" = "Revoke request error";
+
+"Error denying invitation" = "Error denying invitation";
+
+"Error cancelling invitation" = "Error cancelling invitation";
+
+"Error accepting invitation" = "Error accepting invitation";
+
+"Session Expired" = "Session Expired";
+
+"The session has expired, you need to sign in again." = "The session has expired, you need to sign in again.";
+
+"No connection to server" = "No connection to server";
+
+"End SoS" = "End SoS";
+
+"Unable to parse image" = "Unable to parse image";
+
+"Unknown Error" = "Unknown Error";
+
+"Getting contacts" = "Getting contacts";
+
+"New invitation" = "New invitation";
+
+"Invite %@ to follow you" = "Invite %@ to follow you";
+
+"Emergency only access to your location" = "Emergency only access to your location";
+
+"Can see your location" = "Can see your location";
+
+"%@ sec ago" = "%@ sec ago";
+
+"%@ min ago" = "%@ min ago";
+
+"%@ hrs ago" = "%@ hrs ago";
+
+"%@ days ago" = "%@ days ago";
+
+"%@ weeks ago" = "%@ weeks ago";
+
+"When should %@ be able to see your location?" = "When should %@ be able to see your location?";
+
+"Share your location all the time" = "Share your location all the time";
+
+"Share only while emergency mode is on" = "Share only while emergency mode is on";
+
+"Confirm" = "Confirm";
+
+"cofirm_change_access" = "Are you sure that you want to change the access type for user %@";
+
+"confirm_unfollow" = "Are you sure that you want to unfriend %@?";
+
+"confirm_revoke_access" = "Are you sure that you want to revoke %@'s access to your location?";
+
+"internal_app_error" = "Internal App Error: This error has been logged and an engineer has been dispatched.";
+
+"verification_error_no_email" = "There was a problem validating your code, please type your email again";
+
+"No location found" = "No location found";
+
+"email_verification" = "Please insert the code that we sent to %@ from notifications@armore.dev, (check your spam folder).";
+
+"sms_verification" = "Please insert the code that we texted to %@.";
+
+"auth_sending_email" = "Sending code...";
+
+"auth_please_wait" = "Please wait...";
+
+"auth_generating_keys" = "Generating Secure Keys";
+
+"auth_verify_email" = "Verifying email";
+
+"auth_verify_phone" = "Verifying phone";
+
+"low_battery_mode" = "Armore won't push your phone location because Low battery mode is enabled.";
+
+"RCb-SI-TKZ.segmentTitles[0]" = "phone";
+
+"RCb-SI-TKZ.segmentTitles[1]" = "email";
+
+"support_discord_url" = "https://discord.gg/76jTFT2WdN";
+
+"contacts_access_error" = "You previously denied Armore access to your contacts, please go to settings to fix this.";
+
+"go_to_settings" = "Go to Settings";
+
+"friends" = "Friends";
+
+"Your friend" = "Your friend";
+
+"accept_invitation_title" = "Received invite from %@";
+
+"accept_invitation" = "You have received an invitation from %@. Would you like to share locations with them?";
+
+"1 Day" = "1 Day";
+
+"1 Week" = "1 Week";
+
+"1 Month" = "30 Days";
+
+"Select a new expiration time:" = "Select a new expiration time:";
+
+"Retry" = "Retry";
+
+"invitation_call_to_action" = "Let's share our location in the Armore app. Armore uses end to end encryption. here's the invitation link %@";
+
+"send_new_code_confirmation_phone" = "ATTENTION, VERIFY THE PHONE NUMBER:";
+
+"send_new_code_confirmation_email" = "ATTENTION, VERIFY THE EMAIL:";
+
+"send_new_code_change_phone" = "CHANGE PHONE NUMBER";
+
+"send_new_code_change_email" = "CHANGE EMAIL";
+
+"verification_code_sent" = "Code sent, wait 1 minute before retrying";
+
+"resend_code" = "SEND CODE";
+
+"tutorial_part_title_1" = "Hi, we are Armore!";
+ 
+"tutorial_part_instructions_1" = "We empower you to find friends and family using a secure end-to-end encrypted location system.";
+
+"tutorial_part_title_2" = "We don't sell your data";
+
+"tutorial_part_instructions_2" = "We do not have access to your location because it is encrypted.\n\nOnly the friends you invite can access it.";
+
+"tutorial_part_title_3" = "We care about your safety";
+
+"tutorial_part_instructions_3" = "We have a panic button that notifies your friends when you press it.";
+

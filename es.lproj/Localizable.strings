@@ -1,0 +1,451 @@
+/* 
+  Localizable.strings
+  Armore
+
+  Created by Dario Talarico on 2/24/20.
+  Copyright © 2020 Security Union. All rights reserved.
+*/
+
+"Attention" = "Atención";
+
+"oTL-CT-4zv.text" = "Para que Armore funcione, debe permitir el acceso a tu ubicación siempre y activar ubicación precisa";
+
+"No received invitations." = "No tiene invitaciones pendientes.";
+
+"No sent invitations." = "No ha enviado invitaciones.";
+
+"My device" = "Mi móvil";
+
+"Target email" = "Correo";
+
+"Target phone" = "Teléfono";
+
+"Invitations" = "Invitaciones";
+
+"Invitation" = "Invitación";
+
+"ImageTooBigError" = "La imagen seleccionada es demasiado grande, por favor seleccione una mas pequeña.";
+
+"Missing fields" = "Faltan campos";
+
+"All fields need to be filled to sign in." = "Todos los campos son requeridos";
+
+"Signed up successfully" = "Su registro fue exitoso!";
+
+"You're now registered, please sign in." = "Ahora estáa registrado, proceda a introducir sus credenciales.";
+
+"Change image" = "Cambiar imagen";
+
+"Add profile photo" = "Añadir foto";
+
+"All fields need to be filled to register." = "Todos los campos son requeridos";
+
+"My Location" = "Mi ubicación";
+
+"Invitation Sent" = "Invitación enviada";
+
+"The invitation was sent correctly" = "La invitación fue enviada al correo";
+
+"Your device" = "Sú móvil";
+
+"Would you like to invite someone to follow this device?" = "¿Le gustaría invitar a alguien para que acceda a su ubicación?";
+
+"Yes, invite" = "Si, invitar";
+
+"Access" = "Acceso";
+
+"Enter the email of the person you want to invite:" = "Introduzca el correo de la persona que quiere que acceda a su ubicación:";
+
+"Send" = "Enviar";
+
+"Cancel" =  "Cancelar";
+
+"Invitation Accepted" = "Invitación aceptada";
+
+"You accepted the invitation from %@" = "Ha aceptado la invitación de %@";
+
+"Ok" = "Ok";
+
+"Invitation Cancelled" = "Invitación Cancelada";
+
+"You cancelled the invitation to %@" = "Ha cancelado la invitación a %@";
+
+"Invitation Denied" = "Invitación Rechazada";
+
+"You cancelled the invitation from %@" = "Ha cancelado la invitación de %@";
+
+"I sent the invitation" = "Invitación Enviada";
+
+"Cancel Invitation" = "Cancelar Invitación";
+
+"To email:" = "Correo:";
+
+"To phone:" = "Teléfono:";
+
+"Email:" = "Correo:";
+
+"Phone:" = "Teléfono:";
+
+"Are you sure you want to cancel the invitation to %@?" = "¿Está seguro que quieres cancelar la invitación a %@?";
+
+"Accept Invitation" = "Acceptar Invitación";
+
+"accept_invitation_confirm_2" = "¿Está seguro de que quieres aceptar la invitación para seguir a %@?";
+
+"Accept" = "Aceptar";
+
+"Reject Invitation" = "Negar Invitación";
+    
+"accept_invitation_confirm" = "¿Está seguro de que desea negar la invitación de %@?";
+    
+"Reject" = "Negar";
+    
+"No" = "No";
+
+"Access Revoked" = "Acceso Revocado";
+
+"The access was successfully revoked." = "El acceso fue revocado.";
+
+"My Device Name: %@" = "Nombre de mi móvil: %@";
+
+"My Device Id: %@" = "Id: %@";
+
+"My Device OS: %@" = "Sistema Operativo: %@";
+
+"My Device Model: %@" = "Modelo: %@";
+
+"My Device OS Version: %@" = "Versión del Sistema Operativo: %@";
+
+"My Device" = "Mi móvil";
+
+"Revoke Access" = "Revocar acceso";
+
+"revoke_access_prompt" = "¿Desea eliminar el acceso al usuario: %@, a su posición?";
+
+"Revoke" = "Revocar";
+
+"Your invitation to %@ was sent correctly." = "Su invitación a %@ para poder accesar a su posiciòn %@ fue enviada correctamente.";
+
+"Send Invitation" = "Crear invitación";
+
+"new_invitation_confirmation" = "¿Está segur@ de que quiere invitar a %@ para que acceda a su ubicación?";
+ 
+"Missing fields" = "Faltan datos";
+
+"You need to write an email to send an invitation." = "Por favor, escriba el email de la persona que quiere que le siga.";
+
+"Login error" = "Error de inicio de sesión";
+
+"password_reset_validation_error." =  "Necesitas escribir su usuario o dirección de correo para cambiar tu password";
+
+"Remove account?" = "¿Cerrar la cuenta?";
+
+"Do you want to remove your account?" = "¿Quiere cerrar la cuenta?";
+
+"logout_confirmation_title" = "¿Está segur@ de cerrar la cuenta?";
+
+"logout_confirmation" = "Si cierra la cuenta, sus seguidores no podrán acceder a su ubicación y tampoco usted a la de ellos. La ubicación histórica será eliminada. Cuando inicie sesión de nuevo, accederá y empezará a enviar nueva ubicación histórica para sus seguidores.";
+
+"I'm Sure" = "Estoy segur@";
+
+"Yes" = "Si";
+
+"Here we will show your friends once you add them" = "Aquí mostraremos sus contactos";
+
+"Followers" = "SEGUIDORES";
+
+"Following" = "SIGUIENDO";
+
+"Remove" = "Eliminar";
+
+"Online" = "En Línea";
+
+"Offline" = "Desconectado";
+
+"Unknown" = "Desconocido";
+
+"Remove follower %@" = "Eliminar a %@ como seguidor";
+
+"Are you sure that you want to remove %@?" = "¿Está segur@ de que desea que %@ le deje de seguir?";
+
+"Stop following %@" = "Dejar de seguir a %@";
+
+"Are you sure that you want to stop following %@?" = "¿Estáe segur@ de de que desea dejar de seguir a %@?";
+
+"You do not have access to %@'s location" = "No tiene acceso a la ubicación de %@";
+
+"Please reach out to %@ and ask them to send you an invitation." = "Hable con %@ para que te mande una invitación";
+
+"Add follower" = "Añadir seguidor";
+
+"Share your location" = "Comparta su ubicación";
+
+"Back" = "Atrás";
+
+"new_invitation_prompt" = "Invita a una/un amig@ a seguirse mutuamente";
+
+"Pull to refresh" = "Actualizar";
+
+"New" = "Nueva";
+
+"Emergency Mode" = "Modo de emergencia";
+
+"emergency_mode_notification" = "Ahora está en modo de emergencia. Todos sus seguidores serán notificados.";
+
+"We will notify all your followers that you have an emergency in:" = "Notificaremos a todos sus seguidores que está en una emergencia en:";
+
+"seconds" = "segundos";
+
+"Emergency Mode Off" = "Modo de emergencia apagado";
+
+"emergency_state_off" = "El modo de emergencia fue exitosamente apagado.";
+
+"Error setting mode" = "Error cambiando de modo";
+
+"Quit emergency mode" = "Apagar modo de emergencia";
+
+"You are currently sharing your location with %@ all the time." = "Está actualmente compartiendo su ubicación todo el tiempo con %@.";
+
+"Change to share only on emergency mode" = "Compartir sólo en modo de emergencia";
+
+"You are currently sharing your location with %@ only on emergency mode." = "Está actualmente compartiendo su ubicación sólo en modo de emergencia con %@.";
+
+"Change to share all the time" = "Compartir todo el tiempo";
+
+"Unfollow" = "Dejar de seguir";
+
+"Now %@ will only see your location on emergency mode." = "Ahora %@ puede ver su ubicación sólo en modo de emergencia.";
+
+"Now %@ can see your location all the time." = "Ahora %@ puede ver su ubicación todo el tiempo.";
+
+"Access modified" = "Acceso modificado";
+
+"Turn off emergency mode" = "Apagar modo de emergencia";
+
+"Do you want to turn off emergency mode?" = "¿Quieree apagar el modo de emergencia?";
+
+"Attention! Blank has enabled emergency mode." = "¡Atención! %@ ha habilitado el modo de emergencia.";
+
+"Error getting data" = "Error en datos";
+
+"Error finding follower" = "No se pudo encontrar la información del seguidor.";
+
+"History Location" = "Ubicación histórica";
+
+"No locations on selected time" = "No hay ubicaciones en el tiempo seleccionado";
+
+"Historical location of %@" = "Ubicación histórica de %@";
+
+"Locations of today" = "Ubicaciones de hoy";
+
+"Only today" = "Sólo hoy";
+
+"%@ days ago" = "Hace %@ días";
+
+"Locations since %@" = "Ubicaciones desde %@";
+
+"Emergency" = "Emergencia";
+
+"Limited Access" = "La ubicación está oculta";
+
+"See historical location" = "ubicación histórica (7 DÍAS)";
+
+"Start Date:" = "Fecha inicial:";
+
+"End Date:" = "Fecha final:";
+
+"Today" = "Hoy";
+
+"Done" = "Listo";
+
+"Error" = "Error";
+
+"End SoS" = "Detener SoS";
+
+"Share all the time" = "Compartir todo el tiempo";
+
+"Share only on emergency mode" = "Compartir sólo en emergencia";
+
+"Change access type" = "Cambiar tipo de acceso";
+
+"Do you want to change the access for %@ to see your location %@?" = "¿Quieree cambiar el acceso de %@ para que vea su ubicación %@?";
+
+"Yes" = "Si";
+
+"follower_access_permanent" = "Siempre";
+
+"(follower_access_permanent)" = "(Siempre)";
+
+"follower_access_emergency" = "Sólo en emergencias";
+
+"(follower_access_emergency)" = "(Sólo en emergencias";
+
+"Options" = "Opciones";
+
+"You can unfollow %@" = "Puedee dejar de seguir a %@";
+
+"Connection settings" = "Configuración de la conexión";
+
+"Location" = "Ubicación";
+
+"Save configuration" = "Guardar configuración";
+
+"Remove follower" = "Remover seguidor";
+
+"Error changing access" = "Error al cambiar el acceso";
+
+"Error removing follower" = "Error al remover al seguidor";
+
+"Do you want to remove %@ as a follower? (If you do this, %@ will not have access to your location anymore)" = "¿Quiere remover a %@ como seguidor@? (Si hacee esto, %@ ya no tendrá acceso a su ubicación)";
+
+"Remove" = "Remover";
+
+"Follower removed" = "Seguidor removido";
+
+"%@ was removed as a follower." = "El usuario %@ ha sido removido como seguidor.";
+
+"force unregister device" = "Remover otros dispositivos y hacer login";
+
+"Error on location data" = "Error en datos de la ubicación";
+
+"history_location_no_data_2" = "No fue posible desecriptar la ubicación de %@. Esto puede ser porque cambiaron de teléfonos o se borró la cuenta recientemente. Puede tardar unos minutos en obtener actualizaciones de ubicaciones.";
+
+"Loading historical location" = "Cargando ubicación histórica";
+
+"history_location_no_data" = "%@ no le ha enviado correctamente su ubicación, por favor espere unos minutos.";
+
+"Historical location data error" = "Error al obtener ubicación histórica";
+
+"server_parsing_error" = "No fue posible entender la respuesta del servidor";
+
+"You can only see %@'s location while they have SOS mode activated." = "Únicamente puedes acceder a la ubicación de %@ cuando se encuentre en estado de emergencia.";
+
+"Revoke request error" = "Error al revocar acceso";
+
+"Error denying invitation" = "Error negando la invitación";
+
+"Error cancelling invitation" = "Error cancelando la invitación";
+
+"Error accepting invitation" = "Error aceptando la invitación";
+
+"Session Expired" = "Sesión expirada";
+
+"The session has expired, you need to sign in again." = "La sesión ha expirado, necesitará iniciar sesión de nuevo.";
+
+"No connection to server" = "No hay conexión con el servidor.";
+
+"Unable to parse image" = "No fue posible obtener la imagen";
+
+"Unknown Error" = "Error desconocido";
+
+"Getting contacts" = "Obteniendo contactos";
+
+"New invitation" = "Nueva invitación";
+
+"Invite %@ to follow you" = "Haz que %@ pueda verte";
+
+"Emergency only access to your location" = "Sólo en modo de emergencia";
+
+"Can see your location" = "Puede ver tu ubicación";
+
+"%@ sec ago" = "%@ sec atrás";
+
+"%@ min ago" = "%@ min atrás";
+
+"%@ hrs ago" = "%@ hrs atrás";
+
+"%@ days ago" = "%@ days atrás";
+
+"%@ weeks ago" = "%@ weeks atrás";
+
+"When should %@ be able to see your location?" = "¿Cuándo quieres que %@ vea tu ubicación?";
+
+"Share your location all the time" = "Compartir posición todo el tiempo";
+
+"Share only while emergency mode is on" = "Compartir posición sólo en modo de emergencia";
+
+"Confirm" = "Confirmar";
+
+"cofirm_change_access" = "¿Está segur@ que desea cambiar el tipo de acceso a %@?";
+
+"confirm_unfollow" = "¿Está segur@ de que desea eliminar a %@?";
+
+"confirm_revoke_access" = "¿Está segur@ de que desea revocar el acceso de %@ a su localización?";
+
+"internal_app_error" = "Error interno de la app: Un ingeniero ha sido notificado, una disculpa.";
+
+"verification_error_no_email" = "Tuvimos un problema al validar tu correo, por favor, escríbelo nuevamente.";
+
+"No location found" = "No hay datos";
+
+"email_verification" = "Por favor, ingrese el código de verificación que mandamos a %@ desde notifications@armore.dev (busque en el folder de spam).";
+
+"sms_verification" = "Por favor, ingrese el código que mandamos por mensaje de texto al %@.";
+
+"auth_sending_email" = "Enviando código...";
+
+"auth_please_wait" = "Por favor, espere...";
+
+"auth_generating_keys" = "Generando llaves seguras";
+
+"auth_verify_email" = "Verificando correo";
+
+"auth_verify_phone" = "Verificando teléfono";
+
+"low_battery_mode" = "Armore ya no mandará la posición de su teléfono porque el modo de ahorrar batería está activado";
+
+"PhoneNumberKit.CountryCodePicker.Current" = "País seleccionado";
+
+"RCb-SI-TKZ.segmentTitles[0]" = "teléfono";
+
+"RCb-SI-TKZ.segmentTitles[1]" = "correo";
+
+"support_discord_url" = "https://discord.gg/6MwkUNK";
+
+"contacts_access_error" = "Usted negó el acceso a los contactos a Armore, para arreglar esto, vaya a ajustes.";
+
+"go_to_settings" = "Ir a Ajustes";
+
+"friends" = "Amig@s";
+
+"Your friend" = "Tu amig@";
+
+"accept_invitation_title" = "Invitación de %@";
+
+"accept_invitation" = "Has recibido una invitación de %@. ¿Te gustaría compartir tu ubicación?";
+
+"1 Day" = "1 día";
+
+"1 Week" = "7 días";
+
+"1 Month" = "30 días";
+
+"Select a new expiration time:" = "Selecciona la expiración de tu invitación:";
+
+"Retry" = "Reintentar";
+
+"invitation_call_to_action" = "Te invito a que nos compartamos la ubicación usando Armore. Armore utiliza cifrado de extremo a extremo: %@";
+
+"send_new_code_confirmation_phone" = "ATENCIÓN, VERIFIQUE EL NÚMERO DE TELÉFONO:";
+
+"send_new_code_confirmation_email" = "ATENCIÓN, VERIFIQUE EL CORREO:";
+
+"send_new_code_change_phone" = "CAMBIAR TELÉFONO";
+
+"send_new_code_change_email" = "CAMBIAR CORREO";
+
+"verification_code_sent" = "Código enviado, espere 1 minuto antes de reintentar";
+
+"resend_code" = "ENVIAR CÓDIGO";
+
+"tutorial_part_title_1" = "¡Hola, somos Armore!";
+
+"tutorial_part_instructions_1" = "Con Armore puedes realizar un seguimiento de sus amig@s y familiares mediante un sistema de ubicación seguro cifrado de extremo a extremo.";
+
+"tutorial_part_title_2" = "No vendemos tus datos";
+
+"tutorial_part_instructions_2" = "No tenemos acceso a tu ubicación porque está encriptada.\n\nSólo las amigas y amigos que invites pueden acceder a ella.";
+
+"tutorial_part_title_3" = "Nos preocupamos por tu seguridad";
+
+"tutorial_part_instructions_3" = "Ofrecemos un botón de pánico que notifica a tus amig@s cuando lo presionas.";

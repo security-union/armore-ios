@@ -1,0 +1,356 @@
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "0sf-LB-a0y"; */
+"0sf-LB-a0y.title" = "Back";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "1EF-3e-AeG"; */
+"1EF-3e-AeG.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Complete name"; ObjectID = "1OS-hv-Wn1"; */
+"1OS-hv-Wn1.text" = "Complete name";
+
+/* Class = "UILabel"; text = "Device name"; ObjectID = "1ex-n7-nHe"; */
+"1ex-n7-nHe.text" = "Device name";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "1uZ-Xf-pFL"; */
+"1uZ-Xf-pFL.normalTitle" = "Sign Up";
+
+/* Class = "UITabBarItem"; title = "Devices"; ObjectID = "1vj-mq-mhg"; */
+"1vj-mq-mhg.title" = "Devices";
+
+/* Class = "UITextField"; placeholder = "username or email"; ObjectID = "21v-wH-Wo8"; */
+"21v-wH-Wo8.placeholder" = "username or email";
+
+/* Class = "UIBarButtonItem"; title = "New"; ObjectID = "2Eq-E7-9Ht"; */
+"2Eq-E7-9Ht.title" = "New";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "2ed-fZ-fVd"; */
+"2ed-fZ-fVd.normalTitle" = "TERMS OF SERVICE";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "34m-0E-raN"; */
+"34m-0E-raN.title" = "Profile";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "3il-PX-7JI"; */
+"3il-PX-7JI.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "REMOVE ACCOUNT"; ObjectID = "484-XY-Xba"; */
+"484-XY-Xba.normalTitle" = "REMOVE ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = "Add profile photo"; ObjectID = "4Bi-oQ-Llv"; */
+"4Bi-oQ-Llv.normalTitle" = "Add profile photo";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "4E7-dZ-PLj"; */
+"4E7-dZ-PLj.text" = "email";
+
+/* Class = "UILabel"; text = "Start Date:"; ObjectID = "6G3-Mg-1lc"; */
+"6G3-Mg-1lc.text" = "Start Date:";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "6WT-xr-thW"; */
+"6WT-xr-thW.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Please enter your username or email to start the password reset process."; ObjectID = "71q-IM-shS"; */
+"71q-IM-shS.text" = "Please enter your username or email to start the password reset process.";
+
+/* Class = "UIButton"; normalTitle = "CONTACTS"; ObjectID = "7qm-uS-eZh"; */
+"7qm-uS-eZh.normalTitle" = "CONTACTS";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "7sa-Vo-A6A"; */
+"7sa-Vo-A6A.placeholder" = "password";
+
+/* Class = "UIButton"; normalTitle = "Remove access"; ObjectID = "7vK-SV-2Wl"; */
+"7vK-SV-2Wl.normalTitle" = "Remove access";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "8Fi-7E-as9"; */
+"8Fi-7E-as9.text" = "Email";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9Y6-im-DZA"; */
+"9Y6-im-DZA.text" = "0";
+
+/* Class = "UILabel"; text = "(No people with access to this device)"; ObjectID = "AfV-eO-kbn"; */
+"AfV-eO-kbn.text" = "(No people with access to this device)";
+
+/* Class = "UIButton"; normalTitle = "Invite someone to track this device"; ObjectID = "B1L-hB-nW5"; */
+"B1L-hB-nW5.normalTitle" = "Invite someone to track this device";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "BNb-wC-agF"; */
+"BNb-wC-agF.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "CNF-Vo-9In"; */
+"CNF-Vo-9In.text" = "Today";
+
+/* Class = "UILabel"; text = "No received invitations"; ObjectID = "DVj-lL-R5l"; */
+"DVj-lL-R5l.text" = "No received invitations";
+
+/* Class = "UILabel"; text = "My Device Model:"; ObjectID = "DVo-gQ-xy9"; */
+"DVo-gQ-xy9.text" = "My Device Model:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "E6U-oS-rru"; */
+"E6U-oS-rru.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "EGT-hN-OC6"; */
+"EGT-hN-OC6.text" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "Egu-GA-yJx"; */
+"Egu-GA-yJx.text" = "Following";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "F05-eu-3YJ"; */
+"F05-eu-3YJ.text" = "Followers";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "H6j-0e-wLH"; */
+"H6j-0e-wLH.normalTitle" = "PRIVACY POLICY";
+
+/* Class = "UISegmentedControl"; IVl-iP-0IC.segmentTitles[0] = "Received"; ObjectID = "IVl-iP-0IC"; */
+"IVl-iP-0IC.segmentTitles[0]" = "Received";
+
+/* Class = "UISegmentedControl"; IVl-iP-0IC.segmentTitles[1] = "Sent"; ObjectID = "IVl-iP-0IC"; */
+"IVl-iP-0IC.segmentTitles[1]" = "Sent";
+
+/* Class = "UILabel"; text = "Creator Username:"; ObjectID = "Iwd-gV-hrq"; */
+"Iwd-gV-hrq.text" = "Creator Username:";
+
+/* Class = "UILabel"; text = "My Device OS:"; ObjectID = "KuA-4R-SQH"; */
+"KuA-4R-SQH.text" = "My Device OS:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "LAw-CM-Ygz"; */
+"LAw-CM-Ygz.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Connection settings"; ObjectID = "LY1-5x-WaG"; */
+"LY1-5x-WaG.text" = "Connection settings";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "LZM-2j-WR5"; */
+"LZM-2j-WR5.text" = "Password";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "M5y-Z5-PiS"; */
+"M5y-Z5-PiS.text" = "Email:";
+
+/* Class = "UILabel"; text = "Historical location of"; ObjectID = "MMx-Wl-L1R"; */
+"MMx-Wl-L1R.text" = "Historical location of";
+
+/* Class = "UITextField"; placeholder = "password verify"; ObjectID = "MeO-t9-qTP"; */
+"MeO-t9-qTP.placeholder" = "password verify";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "NuL-uq-76w"; */
+"NuL-uq-76w.text" = "Last Name";
+
+/* Class = "UILabel"; text = "Your going to send an invitation for someone to access your location"; ObjectID = "P1s-TD-b0i"; */
+"P1s-TD-b0i.text" = "Your going to send an invitation for someone to access your location";
+
+/* Class = "UINavigationItem"; title = "Invite a follower"; ObjectID = "PcD-o7-ofb"; */
+"PcD-o7-ofb.title" = "Invite a follower";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "PuX-Eg-qGX"; */
+"PuX-Eg-qGX.text" = "Email";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "Qdn-kF-hzF"; */
+"Qdn-kF-hzF.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "Revoke Access"; ObjectID = "QyX-6t-90R"; */
+"QyX-6t-90R.normalTitle" = "Revoke Access";
+
+/* Class = "UILabel"; text = "Please type the new password:"; ObjectID = "RJS-Eo-mIa"; */
+"RJS-Eo-mIa.text" = "Please type the new password:";
+
+/* Class = "UITabBarItem"; title = "Locations"; ObjectID = "Rnk-qG-579"; */
+"Rnk-qG-579.title" = "Locations";
+
+/* Class = "UINavigationItem"; title = "Invitation"; ObjectID = "TOn-qG-w5E"; */
+"TOn-qG-w5E.title" = "Invitation";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "UxM-MF-saz"; */
+"UxM-MF-saz.normalTitle" = "Forgot password?";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Vg9-b7-u57"; */
+"Vg9-b7-u57.text" = "Email";
+
+/* Class = "UIViewController"; title = "New Invitation"; ObjectID = "Vif-xu-roM"; */
+"Vif-xu-roM.title" = "New Invitation";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "WLl-3V-kC3"; */
+"WLl-3V-kC3.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "People with access to this device:"; ObjectID = "Ycq-z9-nmL"; */
+"Ycq-z9-nmL.text" = "People with access to this device:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Ydf-Ks-Nc9"; */
+"Ydf-Ks-Nc9.text" = "Name";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "Ylx-Pi-CC9"; */
+"Ylx-Pi-CC9.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Owner"; ObjectID = "Ynj-9g-T4i"; */
+"Ynj-9g-T4i.text" = "Owner";
+
+/* Class = "UILabel"; text = "My Device Name:"; ObjectID = "Z4I-va-SFi"; */
+"Z4I-va-SFi.text" = "My Device Name:";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Z5q-8z-ULD"; */
+"Z5q-8z-ULD.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Zrn-qZ-e0U"; */
+"Zrn-qZ-e0U.text" = "name";
+
+/* Class = "UILabel"; text = "End Date:"; ObjectID = "aUo-o1-KHw"; */
+"aUo-o1-KHw.text" = "End Date:";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "ary-Bf-PES"; */
+"ary-Bf-PES.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "target email"; ObjectID = "bGK-uB-Dt5"; */
+"bGK-uB-Dt5.text" = "email";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "bHA-bm-Kra"; */
+"bHA-bm-Kra.normalTitle" = "Reset Password";
+
+/* Class = "UISegmentedControl"; bK3-5J-a2c.segmentTitles[0] = "Mine"; ObjectID = "bK3-5J-a2c"; */
+"bK3-5J-a2c.segmentTitles[0]" = "Mine";
+
+/* Class = "UISegmentedControl"; bK3-5J-a2c.segmentTitles[1] = "Guest"; ObjectID = "bK3-5J-a2c"; */
+"bK3-5J-a2c.segmentTitles[1]" = "Guest";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "bfO-nT-1QJ"; */
+"bfO-nT-1QJ.text" = "Username";
+
+/* Class = "UINavigationItem"; title = "Sign up"; ObjectID = "bkS-Mx-u7f"; */
+"bkS-Mx-u7f.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cSo-yO-M13"; */
+"cSo-yO-M13.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Datetime"; ObjectID = "ccZ-Dp-5iH"; */
+"ccZ-Dp-5iH.text" = "Datetime";
+
+/* Class = "UIButton"; normalTitle = "Send password reset request"; ObjectID = "dPl-L5-8Qa"; */
+"dPl-L5-8Qa.normalTitle" = "Send password reset request";
+
+/* Class = "UIButton"; normalTitle = "Add profile photo"; ObjectID = "eK1-cy-czH"; */
+"eK1-cy-czH.normalTitle" = "Add profile photo";
+
+/* Class = "UILabel"; text = "We will notify all your followers that you have an emergency in:"; ObjectID = "emv-Ve-M8b"; */
+"emv-Ve-M8b.text" = "We will notify all your followers that you have an emergency in:";
+
+/* Class = "UILabel"; text = "Confirm Email"; ObjectID = "en7-b4-5Um"; */
+"en7-b4-5Um.text" = "Confirm Email";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "epw-b4-hpF"; */
+"epw-b4-hpF.normalTitle" = "Sign Up";
+
+/* Class = "UIViewController"; title = "Location History"; ObjectID = "f3B-6g-7Te"; */
+"f3B-6g-7Te.title" = "Location History";
+
+/* Class = "UILabel"; text = "Owner"; ObjectID = "fUn-9l-9Tp"; */
+"fUn-9l-9Tp.text" = "Owner";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "fWg-ok-cVG"; */
+"fWg-ok-cVG.title" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Confirm email"; ObjectID = "ggL-cK-X7Y"; */
+"ggL-cK-X7Y.placeholder" = "Confirm email";
+
+/* Class = "UIButton"; normalTitle = "Deny Invitation"; ObjectID = "hpI-c9-J2h"; */
+"hpI-c9-J2h.normalTitle" = "Deny Invitation";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "ixl-3E-Uw7"; */
+"ixl-3E-Uw7.normalTitle" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Share your location"; ObjectID = "jOq-4d-b9Q"; */
+"jOq-4d-b9Q.normalTitle" = "Share your location";
+
+/* Class = "UITabBarItem"; title = "Invitations"; ObjectID = "mtc-0y-qNw"; */
+"mtc-0y-qNw.title" = "Invitations";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "oDh-xP-wTN"; */
+"oDh-xP-wTN.text" = "Username";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "odi-jp-ALe"; */
+"odi-jp-ALe.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "ogR-Sc-Xer"; */
+"ogR-Sc-Xer.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "onT-ri-Mbm"; */
+"onT-ri-Mbm.text" = "Email";
+
+/* Class = "UILabel"; text = "Device name"; ObjectID = "owq-5z-n6N"; */
+"owq-5z-n6N.text" = "Device name";
+
+/* Class = "UILabel"; text = "My Device Id:"; ObjectID = "py3-0N-Y5O"; */
+"py3-0N-Y5O.text" = "My Device Id:";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "rc2-1d-hoP"; */
+"rc2-1d-hoP.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "The date"; ObjectID = "rcw-H2-x01"; */
+"rcw-H2-x01.text" = "The date";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "sIA-pS-hSX"; */
+"sIA-pS-hSX.placeholder" = "password";
+
+/* Class = "UILabel"; text = "Share all the time"; ObjectID = "snq-UA-YOt"; */
+"snq-UA-YOt.text" = "Share all the time";
+
+/* Class = "UILabel"; text = "seconds"; ObjectID = "sqZ-mv-9Go"; */
+"sqZ-mv-9Go.text" = "seconds";
+
+/* Class = "UITextField"; placeholder = "Target email"; ObjectID = "sqh-SM-913"; */
+"sqh-SM-913.placeholder" = "email";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "tRC-Yv-iB3"; */
+"tRC-Yv-iB3.text" = "Username";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "tVq-0l-mye"; */
+"tVq-0l-mye.text" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "tfW-Dg-mc9"; */
+"tfW-Dg-mc9.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "tgK-LB-S7Y"; */
+"tgK-LB-S7Y.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Accept Invitation"; ObjectID = "ue0-2B-9do"; */
+"ue0-2B-9do.normalTitle" = "Accept Invitation";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "vFu-fO-krw"; */
+"vFu-fO-krw.placeholder" = "Confirm password";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "x2U-xs-D0a"; */
+"x2U-xs-D0a.text" = "First Name";
+
+/* Class = "UILabel"; text = "My Device OS Version:"; ObjectID = "xGo-uV-4pu"; */
+"xGo-uV-4pu.text" = "My Device OS Version:";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "xx9-of-Pf7"; */
+"xx9-of-Pf7.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "Send Invitation"; ObjectID = "yLF-g5-HFV"; */
+"yLF-g5-HFV.normalTitle" = "Send Invitation";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "yuw-ow-cq3"; */
+"yuw-ow-cq3.text" = "Location:";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "zRt-CZ-0EQ"; */
+"zRt-CZ-0EQ.text" = "email";
+
+"oU7-AE-VgW.normalTitle" = "REMOVE FRIEND";
+
+"pOg-Ia-jyk.normalTitle" = "UNFOLLOW";
+
+"W6I-Ca-nUQ.text" = "Warning: battery saver is on. Your location won't be sent to your friends. Fix this in Settings > Battery";
+
+"vPu-A0-TJ4.normalTitle" = "EMAIL SUPPORT";
+
+"59w-Hh-Rxv.normalTitle" = "DISCORD SUPPORT";
+
+"Gxr-jz-UQG.normalTitle" = "INVITE FROM CONTACTS";
+
+"nFc-Eb-FVe.title" = "Invite";
+
+"Jf1-XV-4LE.normalTitle" = "INVITE";
+
+"Cxw-7o-Qli.text" = "Expiration time:";
+
+"nqV-0a-0Xd.text" = "You must send the invite link to a friend";
+
+"kDC-hV-81J.normalTitle" = "SHARE";
+
+"40S-Z6-9sX.text" = "🔒 Location is end-to-end encrypted";
+
+"hXo-fo-hdu.normalTitle" = "GO TO LOGIN";

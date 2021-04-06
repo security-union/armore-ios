@@ -1,0 +1,9 @@
+
+/* Class = "UITextField"; placeholder = "Country Code"; ObjectID = "0xl-hQ-lb6"; */
+"0xl-hQ-lb6.placeholder" = "Código";
+
+/* Class = "UITextField"; placeholder = "Country Name"; ObjectID = "XSp-D3-v8K"; */
+"XSp-D3-v8K.placeholder" = "País";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "XjV-zf-RNA"; */
+"XjV-zf-RNA.placeholder" = "Número Telefónico";

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   version="1.1"
+   id="svg837"
+   sodipodi:docname="emer-button.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:export-filename="/Users/darioalessandro/Documents/2021/armore-ios/docs/emer-button.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="942"
+     id="namedview839"
+     showgrid="false"
+     inkscape:zoom="27.833333"
+     inkscape:cx="5.1690018"
+     inkscape:cy="10.462286"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg837"
+     inkscape:document-rotation="0" />
+  <path
+     d="M 0.74783774,0.73185409 H 23.240333 V 23.224349 H 0.74783774 Z"
+     fill="none"
+     id="path833"
+     style="stroke-width:0.937188" />
+  <path
+     d="M 14.726369,5.4626857 H 9.2281307 L 5.3439837,9.3468301 V 14.84507 l 3.884147,3.884146 H 14.726369 L 18.610515,14.84507 V 9.3468301 Z M 11.977251,16.002206 c -0.530662,0 -0.958139,-0.427476 -0.958139,-0.958137 0,-0.530661 0.427477,-0.958138 0.958139,-0.958138 0.530662,0 0.958138,0.427477 0.958138,0.958138 0,0.530661 -0.427476,0.958137 -0.958138,0.958137 z M 12.71428,12.832981 H 11.24022 V 8.4108039 h 1.47406 z"
+     id="path835"
+     style="fill:#ff0000;stroke-width:0.737031" />
+</svg>
