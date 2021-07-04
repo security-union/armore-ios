@@ -1924,7 +1924,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.19;
+				MARKETING_VERSION = 1.20;
 				PRODUCT_BUNDLE_IDENTIFIER = com.armore.SecurityUnion;
 				PRODUCT_NAME = Armore;
 				SWIFT_VERSION = 5.0;
@@ -1947,7 +1947,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.19;
+				MARKETING_VERSION = 1.20;
 				PRODUCT_BUNDLE_IDENTIFIER = com.armore.SecurityUnion;
 				PRODUCT_NAME = Armore;
 				SWIFT_VERSION = 5.0;
