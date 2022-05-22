@@ -1,3 +1,5 @@
+## This service is no longer maintained. I am going to keep it as a reference.
+
 <p align="center" >
   <img src="docs/logo-v2/Armore-circular.svg" title="Armore" width="200" float=left>
 </p>
